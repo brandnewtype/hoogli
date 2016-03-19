@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ecircumflex" format="1">
+  <advance width="464"/>
+  <unicode hex="00EA"/>
+  <outline>
+    <contour>
+      <point x="87" y="207" type="curve" smooth="yes"/>
+      <point x="299" y="207" type="line" smooth="yes"/>
+      <point x="341" y="207"/>
+      <point x="361" y="222"/>
+      <point x="361" y="252" type="curve" smooth="yes"/>
+      <point x="361" y="296"/>
+      <point x="313" y="348"/>
+      <point x="244" y="348" type="curve" smooth="yes"/>
+      <point x="160" y="348"/>
+      <point x="95" y="280"/>
+      <point x="95" y="183" type="curve" smooth="yes"/>
+      <point x="95" y="82"/>
+      <point x="166" y="29"/>
+      <point x="264" y="29" type="curve" smooth="yes"/>
+      <point x="297" y="29"/>
+      <point x="330" y="36"/>
+      <point x="354" y="46" type="curve" smooth="yes"/>
+      <point x="364" y="51"/>
+      <point x="376" y="46"/>
+      <point x="380" y="36" type="curve" smooth="yes"/>
+      <point x="385" y="26"/>
+      <point x="380" y="14"/>
+      <point x="370" y="10" type="curve" smooth="yes"/>
+      <point x="342" y="-2"/>
+      <point x="303" y="-11"/>
+      <point x="264" y="-11" type="curve" smooth="yes"/>
+      <point x="140" y="-11"/>
+      <point x="55" y="58"/>
+      <point x="55" y="183" type="curve"/>
+      <point x="55" y="306"/>
+      <point x="140" y="388"/>
+      <point x="244" y="388" type="curve" smooth="yes"/>
+      <point x="341" y="388"/>
+      <point x="401" y="310"/>
+      <point x="401" y="252" type="curve" smooth="yes"/>
+      <point x="401" y="202"/>
+      <point x="377" y="167"/>
+      <point x="299" y="167" type="curve" smooth="yes"/>
+      <point x="87" y="167" type="line" smooth="yes"/>
+      <point x="76" y="167"/>
+      <point x="67" y="176"/>
+      <point x="67" y="187" type="curve" smooth="yes"/>
+      <point x="67" y="198"/>
+      <point x="76" y="207"/>
+    </contour>
+    <contour>
+      <point x="249" y="593" type="curve" smooth="yes"/>
+      <point x="218" y="562"/>
+      <point x="187" y="529"/>
+      <point x="160" y="502" type="curve" smooth="yes"/>
+      <point x="153" y="494"/>
+      <point x="139" y="494"/>
+      <point x="132" y="502" type="curve" smooth="yes"/>
+      <point x="124" y="509"/>
+      <point x="124" y="523"/>
+      <point x="132" y="530" type="curve" smooth="yes"/>
+      <point x="159" y="557"/>
+      <point x="190" y="590"/>
+      <point x="221" y="621" type="curve" smooth="yes"/>
+      <point x="228" y="629"/>
+      <point x="242" y="629"/>
+      <point x="249" y="621" type="curve" smooth="yes"/>
+      <point x="257" y="614"/>
+      <point x="257" y="600"/>
+    </contour>
+    <contour>
+      <point x="315" y="502" type="curve" smooth="yes"/>
+      <point x="289" y="529"/>
+      <point x="259" y="562"/>
+      <point x="227" y="593" type="curve" smooth="yes"/>
+      <point x="219" y="600"/>
+      <point x="219" y="613"/>
+      <point x="227" y="621" type="curve" smooth="yes"/>
+      <point x="234" y="629"/>
+      <point x="247" y="629"/>
+      <point x="255" y="621" type="curve" smooth="yes"/>
+      <point x="287" y="590"/>
+      <point x="317" y="557"/>
+      <point x="343" y="530" type="curve" smooth="yes"/>
+      <point x="351" y="522"/>
+      <point x="351" y="509"/>
+      <point x="343" y="502" type="curve" smooth="yes"/>
+      <point x="335" y="494"/>
+      <point x="322" y="494"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ecircumflex</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>464</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ecircumflex</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>464</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

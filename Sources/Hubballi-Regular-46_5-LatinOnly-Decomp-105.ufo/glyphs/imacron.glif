@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="imacron" format="1">
+  <advance width="217"/>
+  <unicode hex="012B"/>
+  <outline>
+    <contour>
+      <point x="57" y="10" type="curve" smooth="yes"/>
+      <point x="57" y="369" type="line" smooth="yes"/>
+      <point x="57" y="394"/>
+      <point x="83" y="415"/>
+      <point x="108" y="415" type="curve" smooth="yes"/>
+      <point x="133" y="415"/>
+      <point x="159" y="394"/>
+      <point x="159" y="369" type="curve" smooth="yes"/>
+      <point x="159" y="10" type="line" smooth="yes"/>
+      <point x="159" y="-15"/>
+      <point x="133" y="-36"/>
+      <point x="108" y="-36" type="curve" smooth="yes"/>
+      <point x="83" y="-36"/>
+      <point x="57" y="-15"/>
+    </contour>
+    <contour>
+      <point x="182" y="504" type="curve" smooth="yes"/>
+      <point x="35" y="504" type="line" smooth="yes"/>
+      <point x="10" y="504"/>
+      <point x="-11" y="525"/>
+      <point x="-11" y="550" type="curve" smooth="yes"/>
+      <point x="-11" y="575"/>
+      <point x="10" y="596"/>
+      <point x="35" y="596" type="curve" smooth="yes"/>
+      <point x="182" y="596" type="line" smooth="yes"/>
+      <point x="207" y="596"/>
+      <point x="228" y="575"/>
+      <point x="228" y="550" type="curve" smooth="yes"/>
+      <point x="228" y="525"/>
+      <point x="207" y="504"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>imacron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>217</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>imacron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>217</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

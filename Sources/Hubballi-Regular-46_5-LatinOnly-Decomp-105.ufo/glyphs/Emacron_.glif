@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Emacron" format="1">
+  <advance width="511"/>
+  <unicode hex="0112"/>
+  <outline>
+    <contour>
+      <point x="180" y="516" type="curve" smooth="yes"/>
+      <point x="180" y="6" type="line" smooth="yes"/>
+      <point x="180" y="-19"/>
+      <point x="154" y="-40"/>
+      <point x="129" y="-40" type="curve" smooth="yes"/>
+      <point x="104" y="-40"/>
+      <point x="78" y="-19"/>
+      <point x="78" y="6" type="curve" smooth="yes"/>
+      <point x="78" y="516" type="line" smooth="yes"/>
+      <point x="78" y="541"/>
+      <point x="104" y="562"/>
+      <point x="129" y="562" type="curve" smooth="yes"/>
+      <point x="154" y="562"/>
+      <point x="180" y="541"/>
+    </contour>
+    <contour>
+      <point x="138" y="52" type="curve" smooth="yes"/>
+      <point x="422" y="52" type="line" smooth="yes"/>
+      <point x="447" y="52"/>
+      <point x="468" y="31"/>
+      <point x="468" y="6" type="curve" smooth="yes"/>
+      <point x="468" y="-19"/>
+      <point x="447" y="-40"/>
+      <point x="422" y="-40" type="curve" smooth="yes"/>
+      <point x="138" y="-40" type="line" smooth="yes"/>
+      <point x="113" y="-40"/>
+      <point x="92" y="-19"/>
+      <point x="92" y="6" type="curve" smooth="yes"/>
+      <point x="92" y="31"/>
+      <point x="113" y="52"/>
+    </contour>
+    <contour>
+      <point x="138" y="562" type="curve" smooth="yes"/>
+      <point x="420" y="562" type="line" smooth="yes"/>
+      <point x="445" y="562"/>
+      <point x="466" y="541"/>
+      <point x="466" y="516" type="curve" smooth="yes"/>
+      <point x="466" y="491"/>
+      <point x="445" y="470"/>
+      <point x="420" y="470" type="curve" smooth="yes"/>
+      <point x="138" y="470" type="line" smooth="yes"/>
+      <point x="113" y="470"/>
+      <point x="92" y="491"/>
+      <point x="92" y="516" type="curve" smooth="yes"/>
+      <point x="92" y="541"/>
+      <point x="113" y="562"/>
+    </contour>
+    <contour>
+      <point x="138" y="327" type="curve" smooth="yes"/>
+      <point x="375" y="327" type="line" smooth="yes"/>
+      <point x="400" y="327"/>
+      <point x="421" y="306"/>
+      <point x="421" y="281" type="curve" smooth="yes"/>
+      <point x="421" y="256"/>
+      <point x="400" y="235"/>
+      <point x="375" y="235" type="curve" smooth="yes"/>
+      <point x="138" y="235" type="line" smooth="yes"/>
+      <point x="113" y="235"/>
+      <point x="92" y="256"/>
+      <point x="92" y="281" type="curve" smooth="yes"/>
+      <point x="92" y="306"/>
+      <point x="113" y="327"/>
+    </contour>
+    <contour>
+      <point x="379" y="655" type="curve" smooth="yes"/>
+      <point x="139" y="655" type="line" smooth="yes"/>
+      <point x="114" y="655"/>
+      <point x="93" y="676"/>
+      <point x="93" y="701" type="curve" smooth="yes"/>
+      <point x="93" y="726"/>
+      <point x="114" y="747"/>
+      <point x="139" y="747" type="curve" smooth="yes"/>
+      <point x="379" y="747" type="line" smooth="yes"/>
+      <point x="404" y="747"/>
+      <point x="425" y="726"/>
+      <point x="425" y="701" type="curve" smooth="yes"/>
+      <point x="425" y="676"/>
+      <point x="404" y="655"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Emacron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>511</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Emacron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>511</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

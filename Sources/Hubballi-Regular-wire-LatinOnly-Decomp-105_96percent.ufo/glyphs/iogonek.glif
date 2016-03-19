@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iogonek" format="1">
+  <advance width="208"/>
+  <unicode hex="012F"/>
+  <outline>
+    <contour>
+      <point x="117" y="15" type="move"/>
+      <point x="117" y="374" type="line"/>
+    </contour>
+    <contour>
+      <point x="117" y="592" type="curve" smooth="yes"/>
+      <point x="105" y="592"/>
+      <point x="99" y="579"/>
+      <point x="99" y="565" type="curve" smooth="yes"/>
+      <point x="99" y="551"/>
+      <point x="106" y="540"/>
+      <point x="118" y="540" type="curve" smooth="yes"/>
+      <point x="129" y="540"/>
+      <point x="135" y="551"/>
+      <point x="135" y="565" type="curve" smooth="yes"/>
+      <point x="135" y="579"/>
+      <point x="129" y="592"/>
+    </contour>
+    <contour>
+      <point x="117" y="14" type="move"/>
+      <point x="117" y="-23" type="line"/>
+      <point x="31" y="-97"/>
+      <point x="13" y="-126"/>
+      <point x="13" y="-154" type="curve" smooth="yes"/>
+      <point x="13" y="-191"/>
+      <point x="54" y="-217"/>
+      <point x="132" y="-217" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>iogonek</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>208</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>iogonek</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>208</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

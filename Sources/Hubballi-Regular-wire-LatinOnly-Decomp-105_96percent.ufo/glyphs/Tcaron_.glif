@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tcaron" format="1">
+  <advance width="550"/>
+  <unicode hex="0164"/>
+  <outline>
+    <contour>
+      <point x="274" y="515" type="move"/>
+      <point x="274" y="5" type="line"/>
+    </contour>
+    <contour>
+      <point x="60" y="515" type="move"/>
+      <point x="491" y="515" type="line"/>
+    </contour>
+    <contour>
+      <point x="278" y="668" type="move"/>
+      <point x="311" y="693"/>
+      <point x="347" y="718"/>
+      <point x="375" y="741" type="curve"/>
+    </contour>
+    <contour>
+      <point x="175" y="741" type="move"/>
+      <point x="203" y="718"/>
+      <point x="237" y="693"/>
+      <point x="271" y="668" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>273</integer>
+          <key>y</key>
+          <integer>627</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Tcaron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>550</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Tcaron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>550</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

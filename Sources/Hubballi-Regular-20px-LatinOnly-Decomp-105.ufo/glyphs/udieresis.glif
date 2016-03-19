@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="udieresis" format="1">
+  <advance width="522"/>
+  <unicode hex="00FC"/>
+  <outline>
+    <contour>
+      <point x="158" y="601" type="curve" smooth="yes"/>
+      <point x="175" y="601"/>
+      <point x="194" y="585"/>
+      <point x="194" y="553" type="curve" smooth="yes"/>
+      <point x="194" y="524"/>
+      <point x="176" y="508"/>
+      <point x="158" y="508" type="curve" smooth="yes"/>
+      <point x="136" y="508"/>
+      <point x="120" y="526"/>
+      <point x="120" y="553" type="curve" smooth="yes"/>
+      <point x="120" y="583"/>
+      <point x="137" y="601"/>
+    </contour>
+    <contour>
+      <point x="344" y="601" type="curve" smooth="yes"/>
+      <point x="363" y="601"/>
+      <point x="381" y="583"/>
+      <point x="381" y="553" type="curve" smooth="yes"/>
+      <point x="381" y="525"/>
+      <point x="364" y="508"/>
+      <point x="344" y="508" type="curve" smooth="yes"/>
+      <point x="324" y="508"/>
+      <point x="307" y="525"/>
+      <point x="307" y="553" type="curve" smooth="yes"/>
+      <point x="307" y="583"/>
+      <point x="325" y="601"/>
+    </contour>
+    <contour>
+      <point x="426" y="369" type="curve" smooth="yes"/>
+      <point x="426" y="9" type="line" smooth="yes"/>
+      <point x="426" y="-2"/>
+      <point x="417" y="-11"/>
+      <point x="406" y="-11" type="curve" smooth="yes"/>
+      <point x="395" y="-11"/>
+      <point x="386" y="-2"/>
+      <point x="386" y="9" type="curve" smooth="yes"/>
+      <point x="386" y="369" type="line" smooth="yes"/>
+      <point x="386" y="380"/>
+      <point x="395" y="389"/>
+      <point x="406" y="389" type="curve" smooth="yes"/>
+      <point x="417" y="389"/>
+      <point x="426" y="380"/>
+    </contour>
+    <contour>
+      <point x="125" y="369" type="curve" smooth="yes"/>
+      <point x="125" y="159" type="line" smooth="yes"/>
+      <point x="125" y="67"/>
+      <point x="164" y="29"/>
+      <point x="223" y="29" type="curve" smooth="yes"/>
+      <point x="284" y="29"/>
+      <point x="346" y="78"/>
+      <point x="386" y="134" type="curve" smooth="yes"/>
+      <point x="392" y="142"/>
+      <point x="405" y="145"/>
+      <point x="414" y="138" type="curve" smooth="yes"/>
+      <point x="422" y="132"/>
+      <point x="425" y="119"/>
+      <point x="418" y="110" type="curve" smooth="yes"/>
+      <point x="370" y="44"/>
+      <point x="294" y="-11"/>
+      <point x="223" y="-11" type="curve" smooth="yes"/>
+      <point x="146" y="-11"/>
+      <point x="85" y="29"/>
+      <point x="85" y="159" type="curve" smooth="yes"/>
+      <point x="85" y="369" type="line" smooth="yes"/>
+      <point x="85" y="380"/>
+      <point x="94" y="389"/>
+      <point x="105" y="389" type="curve" smooth="yes"/>
+      <point x="116" y="389"/>
+      <point x="125" y="380"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>udieresis</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>522</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>udieresis</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>522</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

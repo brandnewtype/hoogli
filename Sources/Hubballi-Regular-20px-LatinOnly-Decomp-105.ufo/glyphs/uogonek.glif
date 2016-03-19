@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uogonek" format="1">
+  <advance width="522"/>
+  <unicode hex="0173"/>
+  <outline>
+    <contour>
+      <point x="426" y="379" type="curve" smooth="yes"/>
+      <point x="426" y="20" type="line" smooth="yes"/>
+      <point x="426" y="9"/>
+      <point x="417" y="0"/>
+      <point x="406" y="0" type="curve" smooth="yes"/>
+      <point x="395" y="0"/>
+      <point x="386" y="9"/>
+      <point x="386" y="20" type="curve" smooth="yes"/>
+      <point x="386" y="379" type="line" smooth="yes"/>
+      <point x="386" y="390"/>
+      <point x="395" y="399"/>
+      <point x="406" y="399" type="curve" smooth="yes"/>
+      <point x="417" y="399"/>
+      <point x="426" y="390"/>
+    </contour>
+    <contour>
+      <point x="125" y="379" type="curve" smooth="yes"/>
+      <point x="125" y="169" type="line" smooth="yes"/>
+      <point x="125" y="78"/>
+      <point x="164" y="40"/>
+      <point x="223" y="40" type="curve" smooth="yes"/>
+      <point x="284" y="40"/>
+      <point x="346" y="88"/>
+      <point x="386" y="144" type="curve" smooth="yes"/>
+      <point x="392" y="152"/>
+      <point x="405" y="155"/>
+      <point x="414" y="148" type="curve" smooth="yes"/>
+      <point x="422" y="142"/>
+      <point x="425" y="129"/>
+      <point x="418" y="120" type="curve" smooth="yes"/>
+      <point x="370" y="54"/>
+      <point x="294" y="0"/>
+      <point x="223" y="0" type="curve" smooth="yes"/>
+      <point x="146" y="0"/>
+      <point x="85" y="40"/>
+      <point x="85" y="169" type="curve" smooth="yes"/>
+      <point x="85" y="379" type="line" smooth="yes"/>
+      <point x="85" y="390"/>
+      <point x="94" y="399"/>
+      <point x="105" y="399" type="curve" smooth="yes"/>
+      <point x="116" y="399"/>
+      <point x="125" y="390"/>
+    </contour>
+    <contour>
+      <point x="426" y="21" type="curve" smooth="yes"/>
+      <point x="426" y="-16" type="line" smooth="yes"/>
+      <point x="426" y="-21"/>
+      <point x="423" y="-28"/>
+      <point x="419" y="-32" type="curve" smooth="yes"/>
+      <point x="339" y="-96"/>
+      <point x="318" y="-122"/>
+      <point x="318" y="-147" type="curve" smooth="yes"/>
+      <point x="318" y="-178"/>
+      <point x="366" y="-190"/>
+      <point x="422" y="-190" type="curve" smooth="yes"/>
+      <point x="433" y="-190"/>
+      <point x="442" y="-199"/>
+      <point x="442" y="-210" type="curve" smooth="yes"/>
+      <point x="442" y="-221"/>
+      <point x="433" y="-230"/>
+      <point x="422" y="-230" type="curve" smooth="yes"/>
+      <point x="314" y="-230"/>
+      <point x="278" y="-190"/>
+      <point x="278" y="-147" type="curve" smooth="yes"/>
+      <point x="278" y="-116"/>
+      <point x="293" y="-82"/>
+      <point x="393" y="0" type="curve"/>
+      <point x="386" y="-16" type="line"/>
+      <point x="386" y="21" type="line" smooth="yes"/>
+      <point x="386" y="32"/>
+      <point x="395" y="41"/>
+      <point x="406" y="41" type="curve" smooth="yes"/>
+      <point x="417" y="41"/>
+      <point x="426" y="32"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uogonek</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>522</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uogonek</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>522</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="umacron" format="1">
+  <advance width="522"/>
+  <unicode hex="016B"/>
+  <outline>
+    <contour>
+      <point x="406" y="369" type="move"/>
+      <point x="406" y="10" type="line"/>
+    </contour>
+    <contour>
+      <point x="105" y="369" type="move"/>
+      <point x="105" y="159" type="line" smooth="yes"/>
+      <point x="105" y="49"/>
+      <point x="155" y="10"/>
+      <point x="223" y="10" type="curve" smooth="yes"/>
+      <point x="289" y="10"/>
+      <point x="358" y="62"/>
+      <point x="402" y="123" type="curve"/>
+    </contour>
+    <contour>
+      <point x="352" y="550" type="move"/>
+      <point x="141" y="550" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>umacron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>522</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>umacron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>522</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

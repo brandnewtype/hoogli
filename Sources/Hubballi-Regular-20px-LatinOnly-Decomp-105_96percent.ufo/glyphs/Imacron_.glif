@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Imacron" format="1">
+  <advance width="258"/>
+  <unicode hex="012A"/>
+  <outline>
+    <contour>
+      <point x="149" y="516" type="curve" smooth="yes"/>
+      <point x="149" y="6" type="line" smooth="yes"/>
+      <point x="149" y="-5"/>
+      <point x="140" y="-14"/>
+      <point x="129" y="-14" type="curve" smooth="yes"/>
+      <point x="118" y="-14"/>
+      <point x="109" y="-5"/>
+      <point x="109" y="6" type="curve" smooth="yes"/>
+      <point x="109" y="516" type="line" smooth="yes"/>
+      <point x="109" y="527"/>
+      <point x="118" y="536"/>
+      <point x="129" y="536" type="curve" smooth="yes"/>
+      <point x="140" y="536"/>
+      <point x="149" y="527"/>
+    </contour>
+    <contour>
+      <point x="223" y="681" type="curve" smooth="yes"/>
+      <point x="36" y="681" type="line" smooth="yes"/>
+      <point x="25" y="681"/>
+      <point x="16" y="690"/>
+      <point x="16" y="701" type="curve" smooth="yes"/>
+      <point x="16" y="712"/>
+      <point x="25" y="721"/>
+      <point x="36" y="721" type="curve" smooth="yes"/>
+      <point x="223" y="721" type="line" smooth="yes"/>
+      <point x="234" y="721"/>
+      <point x="243" y="712"/>
+      <point x="243" y="701" type="curve" smooth="yes"/>
+      <point x="243" y="690"/>
+      <point x="234" y="681"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Imacron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>258</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Imacron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>258</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

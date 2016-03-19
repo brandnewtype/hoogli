@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yen" format="1">
+  <advance width="564"/>
+  <unicode hex="00A5"/>
+  <outline>
+    <contour>
+      <point x="290" y="265" type="move"/>
+      <point x="290" y="11" type="line"/>
+    </contour>
+    <contour>
+      <point x="94" y="520" type="move"/>
+      <point x="143" y="447"/>
+      <point x="249" y="321"/>
+      <point x="287" y="282" type="curve"/>
+    </contour>
+    <contour>
+      <point x="290" y="271" type="move"/>
+      <point x="341" y="324"/>
+      <point x="434" y="448"/>
+      <point x="483" y="520" type="curve"/>
+    </contour>
+    <contour>
+      <point x="114" y="267" type="move"/>
+      <point x="465" y="267" type="line"/>
+    </contour>
+    <contour>
+      <point x="114" y="118" type="move"/>
+      <point x="465" y="118" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>yen</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>564</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>yen</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>564</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

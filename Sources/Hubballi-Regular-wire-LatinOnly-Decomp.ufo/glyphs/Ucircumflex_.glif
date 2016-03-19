@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ucircumflex" format="1">
+  <advance width="616"/>
+  <unicode hex="00DB"/>
+  <outline>
+    <contour>
+      <point x="111" y="508" type="move"/>
+      <point x="111" y="212" type="line" smooth="yes"/>
+      <point x="111" y="85"/>
+      <point x="191" y="14"/>
+      <point x="306" y="14" type="curve" smooth="yes"/>
+      <point x="433" y="14"/>
+      <point x="505" y="85"/>
+      <point x="505" y="215" type="curve" smooth="yes"/>
+      <point x="505" y="508" type="line"/>
+    </contour>
+    <contour>
+      <point x="297" y="693" type="move"/>
+      <point x="264" y="669"/>
+      <point x="229" y="645"/>
+      <point x="201" y="624" type="curve"/>
+    </contour>
+    <contour>
+      <point x="400" y="624" type="move"/>
+      <point x="372" y="645"/>
+      <point x="338" y="669"/>
+      <point x="304" y="693" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Ucircumflex</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>616</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Ucircumflex</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>616</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

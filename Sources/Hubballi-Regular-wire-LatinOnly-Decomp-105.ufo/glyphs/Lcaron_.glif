@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcaron" format="1">
+  <advance width="482"/>
+  <unicode hex="013D"/>
+  <outline>
+    <contour>
+      <point x="337" y="533" type="move"/>
+      <point x="316" y="388" type="line"/>
+    </contour>
+    <contour>
+      <point x="129" y="520" type="move"/>
+      <point x="129" y="11" type="line"/>
+    </contour>
+    <contour>
+      <point x="138" y="11" type="move"/>
+      <point x="414" y="11" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Lcaron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>482</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Lcaron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>482</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

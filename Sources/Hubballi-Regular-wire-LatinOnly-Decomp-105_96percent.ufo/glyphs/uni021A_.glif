@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni021A" format="1">
+  <advance width="552.0"/>
+  <unicode hex="021A"/>
+  <outline>
+    <contour>
+      <point x="274" y="526" type="move"/>
+      <point x="274" y="17" type="line"/>
+    </contour>
+    <contour>
+      <point x="60" y="526" type="move"/>
+      <point x="491" y="526" type="line"/>
+    </contour>
+    <contour>
+      <point x="270" y="-136" type="move"/>
+      <point x="243" y="-164"/>
+      <point x="192" y="-217"/>
+      <point x="168" y="-241" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni021A</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>552.0</real>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni021A</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>552.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

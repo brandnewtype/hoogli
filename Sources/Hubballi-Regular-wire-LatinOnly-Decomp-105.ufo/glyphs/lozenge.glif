@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lozenge" format="1">
+  <advance width="408"/>
+  <unicode hex="25CA"/>
+  <outline>
+    <contour>
+      <point x="79" y="259" type="move"/>
+      <point x="102" y="189"/>
+      <point x="182" y="27"/>
+      <point x="205" y="-14" type="curve"/>
+    </contour>
+    <contour>
+      <point x="207" y="-17" type="move"/>
+      <point x="233" y="30"/>
+      <point x="306" y="179"/>
+      <point x="334" y="259" type="curve"/>
+    </contour>
+    <contour>
+      <point x="205" y="543" type="move"/>
+      <point x="182" y="502"/>
+      <point x="102" y="340"/>
+      <point x="79" y="270" type="curve"/>
+    </contour>
+    <contour>
+      <point x="334" y="270" type="move"/>
+      <point x="306" y="350"/>
+      <point x="233" y="499"/>
+      <point x="207" y="546" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>lozenge</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>408</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>lozenge</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>408</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

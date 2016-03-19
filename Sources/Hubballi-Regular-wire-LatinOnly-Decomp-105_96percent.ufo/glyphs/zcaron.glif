@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zcaron" format="1">
+  <advance width="447"/>
+  <unicode hex="017E"/>
+  <outline>
+    <contour>
+      <point x="358" y="368" type="move"/>
+      <point x="86" y="368" type="line"/>
+    </contour>
+    <contour>
+      <point x="72" y="9" type="move"/>
+      <point x="375" y="9" type="line"/>
+    </contour>
+    <contour>
+      <point x="364" y="368" type="move"/>
+      <point x="78" y="17" type="line"/>
+    </contour>
+    <contour>
+      <point x="123" y="602" type="move"/>
+      <point x="149" y="575"/>
+      <point x="185" y="536"/>
+      <point x="209" y="511" type="curve"/>
+    </contour>
+    <contour>
+      <point x="216" y="511" type="move"/>
+      <point x="239" y="535"/>
+      <point x="276" y="575"/>
+      <point x="302" y="602" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>zcaron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>447</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>zcaron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>447</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

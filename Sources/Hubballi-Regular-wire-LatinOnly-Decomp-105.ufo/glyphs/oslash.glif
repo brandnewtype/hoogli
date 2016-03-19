@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oslash" format="1">
+  <advance width="525.0"/>
+  <unicode hex="00F8"/>
+  <outline>
+    <contour>
+      <point x="82" y="14" type="move"/>
+      <point x="440" y="374" type="line"/>
+    </contour>
+    <contour>
+      <point x="263" y="378" type="curve" smooth="yes"/>
+      <point x="149" y="378"/>
+      <point x="80" y="293"/>
+      <point x="80" y="191" type="curve" smooth="yes"/>
+      <point x="80" y="89"/>
+      <point x="151" y="10"/>
+      <point x="263" y="10" type="curve" smooth="yes"/>
+      <point x="374" y="10"/>
+      <point x="445" y="88"/>
+      <point x="445" y="189" type="curve" smooth="yes"/>
+      <point x="445" y="293"/>
+      <point x="375" y="378"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>oslash</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>525.0</real>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>oslash</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>525.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

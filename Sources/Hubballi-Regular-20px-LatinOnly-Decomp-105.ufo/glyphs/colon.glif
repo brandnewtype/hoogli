@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colon" format="1">
+  <advance width="264"/>
+  <unicode hex="003A"/>
+  <outline>
+    <contour>
+      <point x="131" y="91" type="curve" smooth="yes"/>
+      <point x="156" y="91"/>
+      <point x="173" y="69"/>
+      <point x="173" y="40" type="curve" smooth="yes"/>
+      <point x="173" y="5"/>
+      <point x="157" y="-10"/>
+      <point x="132" y="-10" type="curve" smooth="yes"/>
+      <point x="112" y="-10"/>
+      <point x="90" y="6"/>
+      <point x="90" y="40" type="curve" smooth="yes"/>
+      <point x="90" y="69"/>
+      <point x="106" y="91"/>
+    </contour>
+    <contour>
+      <point x="131" y="374" type="curve" smooth="yes"/>
+      <point x="156" y="374"/>
+      <point x="173" y="351"/>
+      <point x="173" y="324" type="curve" smooth="yes"/>
+      <point x="173" y="289"/>
+      <point x="157" y="273"/>
+      <point x="132" y="273" type="curve" smooth="yes"/>
+      <point x="112" y="273"/>
+      <point x="90" y="290"/>
+      <point x="90" y="324" type="curve" smooth="yes"/>
+      <point x="90" y="351"/>
+      <point x="106" y="374"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>colon</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>264</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>colon</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>264</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

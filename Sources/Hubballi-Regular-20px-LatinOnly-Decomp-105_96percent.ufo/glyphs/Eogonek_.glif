@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eogonek" format="1">
+  <advance width="491"/>
+  <unicode hex="0118"/>
+  <outline>
+    <contour>
+      <point x="144" y="526" type="curve" smooth="yes"/>
+      <point x="144" y="16" type="line" smooth="yes"/>
+      <point x="144" y="5"/>
+      <point x="135" y="-4"/>
+      <point x="124" y="-4" type="curve" smooth="yes"/>
+      <point x="113" y="-4"/>
+      <point x="104" y="5"/>
+      <point x="104" y="16" type="curve" smooth="yes"/>
+      <point x="104" y="526" type="line" smooth="yes"/>
+      <point x="104" y="537"/>
+      <point x="113" y="546"/>
+      <point x="124" y="546" type="curve" smooth="yes"/>
+      <point x="135" y="546"/>
+      <point x="144" y="537"/>
+    </contour>
+    <contour>
+      <point x="132" y="36" type="curve" smooth="yes"/>
+      <point x="405" y="36" type="line" smooth="yes"/>
+      <point x="416" y="36"/>
+      <point x="425" y="27"/>
+      <point x="425" y="16" type="curve" smooth="yes"/>
+      <point x="425" y="5"/>
+      <point x="416" y="-4"/>
+      <point x="405" y="-4" type="curve" smooth="yes"/>
+      <point x="132" y="-4" type="line" smooth="yes"/>
+      <point x="121" y="-4"/>
+      <point x="112" y="5"/>
+      <point x="112" y="16" type="curve" smooth="yes"/>
+      <point x="112" y="27"/>
+      <point x="121" y="36"/>
+    </contour>
+    <contour>
+      <point x="132" y="546" type="curve" smooth="yes"/>
+      <point x="403" y="546" type="line" smooth="yes"/>
+      <point x="414" y="546"/>
+      <point x="423" y="537"/>
+      <point x="423" y="526" type="curve" smooth="yes"/>
+      <point x="423" y="515"/>
+      <point x="414" y="506"/>
+      <point x="403" y="506" type="curve" smooth="yes"/>
+      <point x="132" y="506" type="line" smooth="yes"/>
+      <point x="121" y="506"/>
+      <point x="112" y="515"/>
+      <point x="112" y="526" type="curve" smooth="yes"/>
+      <point x="112" y="537"/>
+      <point x="121" y="546"/>
+    </contour>
+    <contour>
+      <point x="132" y="310" type="curve" smooth="yes"/>
+      <point x="360" y="310" type="line" smooth="yes"/>
+      <point x="371" y="310"/>
+      <point x="380" y="301"/>
+      <point x="380" y="290" type="curve" smooth="yes"/>
+      <point x="380" y="279"/>
+      <point x="371" y="270"/>
+      <point x="360" y="270" type="curve" smooth="yes"/>
+      <point x="132" y="270" type="line" smooth="yes"/>
+      <point x="121" y="270"/>
+      <point x="112" y="279"/>
+      <point x="112" y="290" type="curve" smooth="yes"/>
+      <point x="112" y="301"/>
+      <point x="121" y="310"/>
+    </contour>
+    <contour>
+      <point x="429" y="17" type="curve" smooth="yes"/>
+      <point x="429" y="-19" type="line" smooth="yes"/>
+      <point x="429" y="-24"/>
+      <point x="426" y="-31"/>
+      <point x="422" y="-34" type="curve" smooth="yes"/>
+      <point x="346" y="-100"/>
+      <point x="325" y="-125"/>
+      <point x="325" y="-151" type="curve" smooth="yes"/>
+      <point x="325" y="-181"/>
+      <point x="371" y="-194"/>
+      <point x="424" y="-194" type="curve" smooth="yes"/>
+      <point x="435" y="-194"/>
+      <point x="444" y="-203"/>
+      <point x="444" y="-214" type="curve" smooth="yes"/>
+      <point x="444" y="-225"/>
+      <point x="435" y="-234"/>
+      <point x="424" y="-234" type="curve" smooth="yes"/>
+      <point x="321" y="-234"/>
+      <point x="285" y="-193"/>
+      <point x="285" y="-151" type="curve" smooth="yes"/>
+      <point x="285" y="-119"/>
+      <point x="300" y="-86"/>
+      <point x="396" y="-4" type="curve"/>
+      <point x="389" y="-19" type="line"/>
+      <point x="389" y="17" type="line" smooth="yes"/>
+      <point x="389" y="28"/>
+      <point x="398" y="37"/>
+      <point x="409" y="37" type="curve" smooth="yes"/>
+      <point x="420" y="37"/>
+      <point x="429" y="28"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Eogonek</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>491</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Eogonek</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>491</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

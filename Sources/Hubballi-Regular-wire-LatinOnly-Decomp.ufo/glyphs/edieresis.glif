@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="edieresis" format="1">
+  <advance width="460"/>
+  <unicode hex="00EB"/>
+  <outline>
+    <contour>
+      <point x="87" y="193" type="move"/>
+      <point x="296" y="193" type="line" smooth="yes"/>
+      <point x="356" y="193"/>
+      <point x="378" y="217"/>
+      <point x="378" y="255" type="curve" smooth="yes"/>
+      <point x="378" y="303"/>
+      <point x="325" y="365"/>
+      <point x="242" y="365" type="curve" smooth="yes"/>
+      <point x="149" y="365"/>
+      <point x="74" y="294"/>
+      <point x="74" y="189" type="curve" smooth="yes"/>
+      <point x="74" y="81"/>
+      <point x="151" y="23"/>
+      <point x="262" y="23" type="curve" smooth="yes"/>
+      <point x="298" y="23"/>
+      <point x="333" y="31"/>
+      <point x="359" y="41" type="curve"/>
+      <point x="359" y="41"/>
+    </contour>
+    <contour>
+      <point x="142" y="567" type="curve" smooth="yes"/>
+      <point x="131" y="567"/>
+      <point x="125" y="554"/>
+      <point x="125" y="541" type="curve" smooth="yes"/>
+      <point x="125" y="528"/>
+      <point x="131" y="517"/>
+      <point x="142" y="517" type="curve" smooth="yes"/>
+      <point x="152" y="517"/>
+      <point x="158" y="528"/>
+      <point x="158" y="541" type="curve" smooth="yes"/>
+      <point x="158" y="554"/>
+      <point x="152" y="567"/>
+    </contour>
+    <contour>
+      <point x="320" y="567" type="curve" smooth="yes"/>
+      <point x="309" y="567"/>
+      <point x="303" y="554"/>
+      <point x="303" y="541" type="curve" smooth="yes"/>
+      <point x="303" y="528"/>
+      <point x="309" y="517"/>
+      <point x="320" y="517" type="curve" smooth="yes"/>
+      <point x="330" y="517"/>
+      <point x="336" y="528"/>
+      <point x="336" y="541" type="curve" smooth="yes"/>
+      <point x="336" y="554"/>
+      <point x="330" y="567"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>edieresis</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>460</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>edieresis</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>460</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

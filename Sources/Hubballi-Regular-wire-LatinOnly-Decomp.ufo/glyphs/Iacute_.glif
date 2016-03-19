@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iacute" format="1">
+  <advance width="256"/>
+  <unicode hex="00CD"/>
+  <outline>
+    <contour>
+      <point x="128" y="508" type="move"/>
+      <point x="128" y="23" type="line"/>
+    </contour>
+    <contour>
+      <point x="243" y="725" type="move"/>
+      <point x="197" y="698"/>
+      <point x="149" y="667"/>
+      <point x="120" y="646" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Iacute</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>256</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Iacute</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>256</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

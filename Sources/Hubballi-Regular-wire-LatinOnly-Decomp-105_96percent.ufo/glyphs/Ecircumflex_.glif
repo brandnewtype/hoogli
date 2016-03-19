@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecircumflex" format="1">
+  <advance width="491"/>
+  <unicode hex="00CA"/>
+  <outline>
+    <contour>
+      <point x="124" y="515" type="move"/>
+      <point x="124" y="5" type="line"/>
+    </contour>
+    <contour>
+      <point x="132" y="5" type="move"/>
+      <point x="405" y="5" type="line"/>
+    </contour>
+    <contour>
+      <point x="132" y="515" type="move"/>
+      <point x="403" y="515" type="line"/>
+    </contour>
+    <contour>
+      <point x="132" y="280" type="move"/>
+      <point x="360" y="280" type="line"/>
+    </contour>
+    <contour>
+      <point x="251" y="741" type="move"/>
+      <point x="218" y="715"/>
+      <point x="182" y="690"/>
+      <point x="155" y="668" type="curve"/>
+    </contour>
+    <contour>
+      <point x="355" y="668" type="move"/>
+      <point x="326" y="690"/>
+      <point x="293" y="715"/>
+      <point x="258" y="741" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Ecircumflex</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>491</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Ecircumflex</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>491</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yacute" format="1">
+  <advance width="588.0"/>
+  <unicode hex="00DD"/>
+  <outline>
+    <contour>
+      <point x="296" y="183" type="move"/>
+      <point x="296" y="6" type="line"/>
+    </contour>
+    <contour>
+      <point x="78" y="515" type="move"/>
+      <point x="122" y="442"/>
+      <point x="248" y="255"/>
+      <point x="293" y="195" type="curve"/>
+    </contour>
+    <contour>
+      <point x="296" y="189" type="move"/>
+      <point x="348" y="258"/>
+      <point x="467" y="443"/>
+      <point x="510" y="515" type="curve"/>
+    </contour>
+    <contour>
+      <point x="426" y="712" type="move"/>
+      <point x="378" y="683"/>
+      <point x="328" y="651"/>
+      <point x="297" y="629" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Yacute</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>588.0</real>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Yacute</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>588.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

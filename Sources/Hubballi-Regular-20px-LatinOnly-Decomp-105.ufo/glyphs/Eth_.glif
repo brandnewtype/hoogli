@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eth" format="1">
+  <advance width="658"/>
+  <unicode hex="00D0"/>
+  <outline>
+    <contour>
+      <point x="330" y="-9" type="curve" smooth="yes"/>
+      <point x="145" y="-9" type="line" smooth="yes"/>
+      <point x="134" y="-9"/>
+      <point x="125" y="0"/>
+      <point x="125" y="11" type="curve" smooth="yes"/>
+      <point x="125" y="520" type="line" smooth="yes"/>
+      <point x="125" y="531"/>
+      <point x="134" y="540"/>
+      <point x="145" y="540" type="curve" smooth="yes"/>
+      <point x="330" y="540" type="line" smooth="yes"/>
+      <point x="466" y="540"/>
+      <point x="588" y="428"/>
+      <point x="588" y="266" type="curve" smooth="yes"/>
+      <point x="588" y="112"/>
+      <point x="486" y="-9"/>
+    </contour>
+    <contour>
+      <point x="67" y="290" type="curve" smooth="yes"/>
+      <point x="326" y="290" type="line" smooth="yes"/>
+      <point x="337" y="290"/>
+      <point x="346" y="281"/>
+      <point x="346" y="270" type="curve" smooth="yes"/>
+      <point x="346" y="259"/>
+      <point x="337" y="250"/>
+      <point x="326" y="250" type="curve" smooth="yes"/>
+      <point x="67" y="250" type="line" smooth="yes"/>
+      <point x="56" y="250"/>
+      <point x="47" y="259"/>
+      <point x="47" y="270" type="curve" smooth="yes"/>
+      <point x="47" y="281"/>
+      <point x="56" y="290"/>
+    </contour>
+    <contour>
+      <point x="330" y="31" type="line" smooth="yes"/>
+      <point x="464" y="31"/>
+      <point x="548" y="136"/>
+      <point x="548" y="266" type="curve" smooth="yes"/>
+      <point x="548" y="402"/>
+      <point x="446" y="500"/>
+      <point x="330" y="500" type="curve" smooth="yes"/>
+      <point x="145" y="500" type="line"/>
+      <point x="165" y="520" type="line"/>
+      <point x="165" y="11" type="line"/>
+      <point x="145" y="31" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Eth</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>658</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Eth</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>658</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

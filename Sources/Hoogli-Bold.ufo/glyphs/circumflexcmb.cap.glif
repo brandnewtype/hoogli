@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcmb.cap" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="18" y="689" type="curve" smooth="yes"/>
+      <point x="-17" y="664"/>
+      <point x="-53" y="638"/>
+      <point x="-82" y="617" type="curve" smooth="yes"/>
+      <point x="-101" y="602"/>
+      <point x="-130" y="606"/>
+      <point x="-144" y="625" type="curve" smooth="yes"/>
+      <point x="-158" y="644"/>
+      <point x="-155" y="673"/>
+      <point x="-136" y="687" type="curve" smooth="yes"/>
+      <point x="-107" y="710"/>
+      <point x="-69" y="736"/>
+      <point x="-34" y="761" type="curve" smooth="yes"/>
+      <point x="-14" y="775"/>
+      <point x="14" y="770"/>
+      <point x="28" y="751" type="curve" smooth="yes"/>
+      <point x="42" y="731"/>
+      <point x="37" y="703"/>
+    </contour>
+    <contour>
+      <point x="74" y="616" type="curve" smooth="yes"/>
+      <point x="44" y="638"/>
+      <point x="9" y="664"/>
+      <point x="-26" y="689" type="curve" smooth="yes"/>
+      <point x="-46" y="702"/>
+      <point x="-51" y="731"/>
+      <point x="-37" y="750" type="curve" smooth="yes"/>
+      <point x="-24" y="770"/>
+      <point x="5" y="775"/>
+      <point x="24" y="761" type="curve" smooth="yes"/>
+      <point x="61" y="736"/>
+      <point x="96" y="710"/>
+      <point x="126" y="688" type="curve" smooth="yes"/>
+      <point x="145" y="674"/>
+      <point x="150" y="645"/>
+      <point x="135" y="626" type="curve" smooth="yes"/>
+      <point x="121" y="607"/>
+      <point x="93" y="602"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>circumflexcmb.cap</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>0</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>circumflexcmb.cap</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>0</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.794</real>
+        <real>0.975</real>
+        <real>0.8356</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yacute" format="1">
+  <advance width="454"/>
+  <unicode hex="00FD"/>
+  <outline>
+    <contour>
+      <point x="63" y="-170" type="move"/>
+      <point x="127" y="-132"/>
+      <point x="184" y="-86"/>
+      <point x="241" y="14" type="curve" smooth="yes"/>
+      <point x="295" y="109"/>
+      <point x="355" y="253"/>
+      <point x="389" y="372" type="curve"/>
+    </contour>
+    <contour>
+      <point x="65" y="373" type="move"/>
+      <point x="120" y="213"/>
+      <point x="186" y="97"/>
+      <point x="238" y="14" type="curve"/>
+    </contour>
+    <contour>
+      <point x="301" y="616" type="move"/>
+      <point x="274" y="583"/>
+      <point x="246" y="550"/>
+      <point x="220" y="517" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>yacute</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>454</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>yacute</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>454</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

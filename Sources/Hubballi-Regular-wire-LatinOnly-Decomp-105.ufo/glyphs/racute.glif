@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="racute" format="1">
+  <advance width="363"/>
+  <unicode hex="0155"/>
+  <outline>
+    <contour>
+      <point x="116" y="9" type="move"/>
+      <point x="116" y="368" type="line"/>
+    </contour>
+    <contour>
+      <point x="117" y="230" type="move"/>
+      <point x="166" y="307"/>
+      <point x="225" y="356"/>
+      <point x="317" y="368" type="curve"/>
+    </contour>
+    <contour>
+      <point x="274" y="611" type="move"/>
+      <point x="245" y="579"/>
+      <point x="216" y="545"/>
+      <point x="189" y="513" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>racute</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>363</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>racute</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>363</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
