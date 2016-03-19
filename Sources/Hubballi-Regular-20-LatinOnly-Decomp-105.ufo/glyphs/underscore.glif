@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="underscore" format="1">
+  <advance width="490"/>
+  <unicode hex="005F"/>
+  <outline>
+    <contour>
+      <point x="27" y="-81" type="curve" smooth="yes"/>
+      <point x="463" y="-81" type="line" smooth="yes"/>
+      <point x="474" y="-81"/>
+      <point x="483" y="-90"/>
+      <point x="483" y="-101" type="curve" smooth="yes"/>
+      <point x="483" y="-112"/>
+      <point x="474" y="-121"/>
+      <point x="463" y="-121" type="curve" smooth="yes"/>
+      <point x="27" y="-121" type="line" smooth="yes"/>
+      <point x="16" y="-121"/>
+      <point x="7" y="-112"/>
+      <point x="7" y="-101" type="curve" smooth="yes"/>
+      <point x="7" y="-90"/>
+      <point x="16" y="-81"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>underscore</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>490</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>underscore</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>490</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
