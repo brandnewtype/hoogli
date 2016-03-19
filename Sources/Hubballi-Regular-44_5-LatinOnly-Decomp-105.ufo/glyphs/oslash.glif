@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oslash" format="1">
+  <advance width="525"/>
+  <unicode hex="00F8"/>
+  <outline>
+    <contour>
+      <point x="263" y="422" type="curve" smooth="yes"/>
+      <point x="401" y="422"/>
+      <point x="494" y="321"/>
+      <point x="494" y="189" type="curve" smooth="yes"/>
+      <point x="494" y="61"/>
+      <point x="401" y="-34"/>
+      <point x="263" y="-34" type="curve" smooth="yes"/>
+      <point x="124" y="-34"/>
+      <point x="31" y="62"/>
+      <point x="31" y="191" type="curve" smooth="yes"/>
+      <point x="31" y="320"/>
+      <point x="122" y="422"/>
+    </contour>
+    <contour>
+      <point x="51" y="44" type="curve" smooth="yes"/>
+      <point x="409" y="404" type="line" smooth="yes"/>
+      <point x="426" y="421"/>
+      <point x="454" y="422"/>
+      <point x="471" y="405" type="curve" smooth="yes"/>
+      <point x="488" y="388"/>
+      <point x="489" y="360"/>
+      <point x="472" y="343" type="curve" smooth="yes"/>
+      <point x="114" y="-17" type="line" smooth="yes"/>
+      <point x="97" y="-34"/>
+      <point x="68" y="-34"/>
+      <point x="51" y="-17" type="curve" smooth="yes"/>
+      <point x="34" y="0"/>
+      <point x="34" y="27"/>
+    </contour>
+    <contour>
+      <point x="263" y="334" type="curve" smooth="yes"/>
+      <point x="176" y="334"/>
+      <point x="129" y="266"/>
+      <point x="129" y="191" type="curve" smooth="yes"/>
+      <point x="129" y="116"/>
+      <point x="178" y="54"/>
+      <point x="263" y="54" type="curve" smooth="yes"/>
+      <point x="347" y="54"/>
+      <point x="396" y="115"/>
+      <point x="396" y="189" type="curve" smooth="yes"/>
+      <point x="396" y="265"/>
+      <point x="349" y="334"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>oslash</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>525</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>oslash</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>525</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1</real>
+        <real>0.84240000000000004</real>
+        <real>0.67420000000000002</real>
+        <real>1</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2113" format="1">
+  <advance width="380"/>
+  <outline>
+    <contour>
+      <point x="56" y="108" type="move"/>
+      <point x="146" y="141"/>
+      <point x="196" y="169"/>
+      <point x="232" y="205" type="curve" smooth="yes"/>
+      <point x="264" y="236"/>
+      <point x="296" y="312"/>
+      <point x="296" y="382" type="curve" smooth="yes"/>
+      <point x="296" y="463"/>
+      <point x="273" y="547"/>
+      <point x="205" y="547" type="curve" smooth="yes"/>
+      <point x="133" y="547"/>
+      <point x="118" y="479"/>
+      <point x="118" y="397" type="curve" smooth="yes"/>
+      <point x="118" y="85" type="line" smooth="yes"/>
+      <point x="118" y="35"/>
+      <point x="152" y="0"/>
+      <point x="205" y="0" type="curve" smooth="yes"/>
+      <point x="236" y="0"/>
+      <point x="269" y="9"/>
+      <point x="299" y="28" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni2113</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>380</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni2113</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>380</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

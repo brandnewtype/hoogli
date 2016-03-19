@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zcaron" format="1">
+  <advance width="446"/>
+  <unicode hex="017E"/>
+  <outline>
+    <contour>
+      <point x="363" y="324" type="curve" smooth="yes"/>
+      <point x="80" y="324" type="line" smooth="yes"/>
+      <point x="56" y="324"/>
+      <point x="36" y="344"/>
+      <point x="36" y="368" type="curve" smooth="yes"/>
+      <point x="36" y="392"/>
+      <point x="56" y="412"/>
+      <point x="80" y="412" type="curve" smooth="yes"/>
+      <point x="363" y="412" type="line" smooth="yes"/>
+      <point x="387" y="412"/>
+      <point x="407" y="392"/>
+      <point x="407" y="368" type="curve" smooth="yes"/>
+      <point x="407" y="344"/>
+      <point x="387" y="324"/>
+    </contour>
+    <contour>
+      <point x="65" y="53" type="curve" smooth="yes"/>
+      <point x="381" y="53" type="line" smooth="yes"/>
+      <point x="405" y="53"/>
+      <point x="425" y="33"/>
+      <point x="425" y="9" type="curve" smooth="yes"/>
+      <point x="425" y="-15"/>
+      <point x="405" y="-35"/>
+      <point x="381" y="-35" type="curve" smooth="yes"/>
+      <point x="65" y="-35" type="line" smooth="yes"/>
+      <point x="41" y="-35"/>
+      <point x="21" y="-15"/>
+      <point x="21" y="9" type="curve" smooth="yes"/>
+      <point x="21" y="33"/>
+      <point x="41" y="53"/>
+    </contour>
+    <contour>
+      <point x="404" y="339" type="curve" smooth="yes"/>
+      <point x="106" y="-12" type="line" smooth="yes"/>
+      <point x="90" y="-30"/>
+      <point x="61" y="-32"/>
+      <point x="43" y="-17" type="curve" smooth="yes"/>
+      <point x="24" y="-1"/>
+      <point x="21" y="28"/>
+      <point x="36" y="46" type="curve" smooth="yes"/>
+      <point x="334" y="397" type="line" smooth="yes"/>
+      <point x="350" y="415"/>
+      <point x="379" y="417"/>
+      <point x="397" y="402" type="curve" smooth="yes"/>
+      <point x="416" y="386"/>
+      <point x="419" y="357"/>
+    </contour>
+    <contour>
+      <point x="150" y="634" type="curve" smooth="yes"/>
+      <point x="177" y="607"/>
+      <point x="215" y="568"/>
+      <point x="240" y="543" type="curve" smooth="yes"/>
+      <point x="257" y="526"/>
+      <point x="256" y="497"/>
+      <point x="239" y="480" type="curve" smooth="yes"/>
+      <point x="222" y="463"/>
+      <point x="193" y="462"/>
+      <point x="176" y="479" type="curve" smooth="yes"/>
+      <point x="151" y="504"/>
+      <point x="113" y="543"/>
+      <point x="86" y="570" type="curve" smooth="yes"/>
+      <point x="69" y="587"/>
+      <point x="70" y="616"/>
+      <point x="87" y="633" type="curve" smooth="yes"/>
+      <point x="104" y="650"/>
+      <point x="133" y="651"/>
+    </contour>
+    <contour>
+      <point x="183" y="543" type="curve" smooth="yes"/>
+      <point x="207" y="567"/>
+      <point x="246" y="607"/>
+      <point x="273" y="634" type="curve" smooth="yes"/>
+      <point x="290" y="651"/>
+      <point x="319" y="650"/>
+      <point x="336" y="633" type="curve" smooth="yes"/>
+      <point x="353" y="616"/>
+      <point x="354" y="587"/>
+      <point x="337" y="570" type="curve" smooth="yes"/>
+      <point x="310" y="543"/>
+      <point x="271" y="503"/>
+      <point x="247" y="479" type="curve" smooth="yes"/>
+      <point x="230" y="462"/>
+      <point x="201" y="463"/>
+      <point x="184" y="480" type="curve" smooth="yes"/>
+      <point x="167" y="497"/>
+      <point x="166" y="526"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>zcaron</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>446</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>zcaron</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>446</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
