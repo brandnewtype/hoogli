@@ -1,1 +1,3 @@
-Project in development
+Hoogli is a casual, low contrast, rounded bengali typeface developed based on continuous writing style using round nib tool. The large counters and its balanced proportions makes the typeface ideal for easy reading on screen as well as on print. The rounded terminals and the loops gives the typeface a unique personality while creating a distinctive overall texture.
+
+Hoogli is available free on Google Fonts.
