@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idieresis" format="1">
+  <advance width="249"/>
+  <unicode hex="00CF"/>
+  <outline>
+    <contour>
+      <point x="27" y="767" type="curve" smooth="yes"/>
+      <point x="53" y="767"/>
+      <point x="93" y="746"/>
+      <point x="93" y="696" type="curve" smooth="yes"/>
+      <point x="93" y="638"/>
+      <point x="53" y="624"/>
+      <point x="27" y="624" type="curve" smooth="yes"/>
+      <point x="-4" y="624"/>
+      <point x="-41" y="642"/>
+      <point x="-41" y="696" type="curve" smooth="yes"/>
+      <point x="-41" y="743"/>
+      <point x="-5" y="767"/>
+    </contour>
+    <contour>
+      <point x="229" y="767" type="curve" smooth="yes"/>
+      <point x="258" y="767"/>
+      <point x="295" y="746"/>
+      <point x="295" y="696" type="curve" smooth="yes"/>
+      <point x="295" y="638"/>
+      <point x="257" y="624"/>
+      <point x="229" y="624" type="curve" smooth="yes"/>
+      <point x="201" y="624"/>
+      <point x="163" y="638"/>
+      <point x="163" y="696" type="curve" smooth="yes"/>
+      <point x="163" y="746"/>
+      <point x="200" y="767"/>
+    </contour>
+    <contour>
+      <point x="173" y="515" type="curve" smooth="yes"/>
+      <point x="173" y="6" type="line" smooth="yes"/>
+      <point x="173" y="-18"/>
+      <point x="148" y="-38"/>
+      <point x="124" y="-38" type="curve" smooth="yes"/>
+      <point x="100" y="-38"/>
+      <point x="75" y="-18"/>
+      <point x="75" y="6" type="curve" smooth="yes"/>
+      <point x="75" y="515" type="line" smooth="yes"/>
+      <point x="75" y="539"/>
+      <point x="100" y="559"/>
+      <point x="124" y="559" type="curve" smooth="yes"/>
+      <point x="148" y="559"/>
+      <point x="173" y="539"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Idieresis</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>239</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Idieresis</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>239</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
