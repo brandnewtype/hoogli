@@ -4,66 +4,66 @@
   <unicode hex="012F"/>
   <outline>
     <contour>
-      <point x="112" y="636" type="curve" smooth="yes"/>
-      <point x="144" y="636"/>
-      <point x="180" y="615"/>
-      <point x="180" y="565" type="curve" smooth="yes"/>
-      <point x="180" y="513"/>
-      <point x="143" y="496"/>
-      <point x="113" y="496" type="curve" smooth="yes"/>
-      <point x="77" y="496"/>
-      <point x="44" y="517"/>
-      <point x="44" y="565" type="curve"/>
-      <point x="44" y="615"/>
-      <point x="78" y="636"/>
+      <point x="112" y="656" type="curve" smooth="yes"/>
+      <point x="144" y="656"/>
+      <point x="180" y="635"/>
+      <point x="180" y="585" type="curve" smooth="yes"/>
+      <point x="180" y="533"/>
+      <point x="143" y="516"/>
+      <point x="113" y="516" type="curve" smooth="yes"/>
+      <point x="77" y="516"/>
+      <point x="44" y="537"/>
+      <point x="44" y="585" type="curve"/>
+      <point x="44" y="635"/>
+      <point x="78" y="656"/>
     </contour>
     <contour>
-      <point x="63" y="15" type="curve" smooth="yes"/>
-      <point x="63" y="374" type="line" smooth="yes"/>
-      <point x="63" y="398"/>
-      <point x="88" y="418"/>
-      <point x="112" y="418" type="curve" smooth="yes"/>
-      <point x="136" y="418"/>
-      <point x="161" y="398"/>
-      <point x="161" y="374" type="curve" smooth="yes"/>
-      <point x="161" y="15" type="line" smooth="yes"/>
-      <point x="161" y="-9"/>
-      <point x="136" y="-29"/>
-      <point x="112" y="-29" type="curve" smooth="yes"/>
-      <point x="88" y="-29"/>
-      <point x="63" y="-9"/>
+      <point x="63" y="35" type="curve" smooth="yes"/>
+      <point x="63" y="394" type="line" smooth="yes"/>
+      <point x="63" y="418"/>
+      <point x="88" y="438"/>
+      <point x="112" y="438" type="curve" smooth="yes"/>
+      <point x="136" y="438"/>
+      <point x="161" y="418"/>
+      <point x="161" y="394" type="curve" smooth="yes"/>
+      <point x="161" y="35" type="line" smooth="yes"/>
+      <point x="161" y="11"/>
+      <point x="136" y="-9"/>
+      <point x="112" y="-9" type="curve" smooth="yes"/>
+      <point x="88" y="-9"/>
+      <point x="63" y="11"/>
     </contour>
     <contour>
-      <point x="161" y="17" type="curve" smooth="yes"/>
-      <point x="161" y="-19" type="line" smooth="yes"/>
-      <point x="161" y="-30"/>
-      <point x="154" y="-45"/>
-      <point x="145" y="-52" type="curve" smooth="yes"/>
-      <point x="78" y="-108"/>
-      <point x="53" y="-128"/>
-      <point x="53" y="-151" type="curve" smooth="yes"/>
-      <point x="53" y="-175"/>
-      <point x="108" y="-171"/>
-      <point x="134" y="-171" type="curve" smooth="yes"/>
-      <point x="157" y="-171"/>
-      <point x="177" y="-191"/>
-      <point x="177" y="-214" type="curve" smooth="yes"/>
-      <point x="177" y="-237"/>
-      <point x="157" y="-257"/>
-      <point x="134" y="-257" type="curve" smooth="yes"/>
-      <point x="-4" y="-257"/>
-      <point x="-33" y="-199"/>
-      <point x="-33" y="-151" type="curve" smooth="yes"/>
-      <point x="-33" y="-116"/>
-      <point x="-22" y="-78"/>
-      <point x="91" y="14" type="curve"/>
-      <point x="63" y="-19" type="line"/>
-      <point x="63" y="17" type="line" smooth="yes"/>
-      <point x="63" y="40"/>
-      <point x="95" y="60"/>
-      <point x="118" y="60" type="curve" smooth="yes"/>
-      <point x="141" y="60"/>
-      <point x="161" y="40"/>
+      <point x="161" y="37" type="curve" smooth="yes"/>
+      <point x="161" y="1" type="line" smooth="yes"/>
+      <point x="161" y="-10"/>
+      <point x="154" y="-25"/>
+      <point x="145" y="-32" type="curve" smooth="yes"/>
+      <point x="78" y="-88"/>
+      <point x="53" y="-108"/>
+      <point x="53" y="-131" type="curve" smooth="yes"/>
+      <point x="53" y="-155"/>
+      <point x="108" y="-151"/>
+      <point x="134" y="-151" type="curve" smooth="yes"/>
+      <point x="157" y="-151"/>
+      <point x="177" y="-171"/>
+      <point x="177" y="-194" type="curve" smooth="yes"/>
+      <point x="177" y="-217"/>
+      <point x="157" y="-237"/>
+      <point x="134" y="-237" type="curve" smooth="yes"/>
+      <point x="-4" y="-237"/>
+      <point x="-33" y="-179"/>
+      <point x="-33" y="-131" type="curve" smooth="yes"/>
+      <point x="-33" y="-96"/>
+      <point x="-22" y="-58"/>
+      <point x="91" y="34" type="curve"/>
+      <point x="63" y="1" type="line"/>
+      <point x="63" y="37" type="line" smooth="yes"/>
+      <point x="63" y="60"/>
+      <point x="95" y="80"/>
+      <point x="118" y="80" type="curve" smooth="yes"/>
+      <point x="141" y="80"/>
+      <point x="161" y="60"/>
     </contour>
   </outline>
   <lib>
@@ -73,44 +73,54 @@
         <key>mask</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>iogonek</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>197</integer>
         </dict>
         <key>wire</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>iogonek</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>197</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>1</real>
-        <real>0.84240000000000004</real>
-        <real>0.67420000000000002</real>
-        <real>1</real>
+        <real>1.0</real>
+        <real>0.8424</real>
+        <real>0.6742</real>
+        <real>1.0</real>
       </array>
     </dict>
   </lib>

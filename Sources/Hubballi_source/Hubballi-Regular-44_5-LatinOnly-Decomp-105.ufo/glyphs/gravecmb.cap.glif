@@ -3,24 +3,24 @@
   <advance width="0"/>
   <outline>
     <contour>
-      <point x="-95" y="767" type="curve" smooth="yes"/>
-      <point x="-55" y="745"/>
-      <point x="4" y="701"/>
-      <point x="33" y="678" type="curve" smooth="yes"/>
-      <point x="52" y="663"/>
-      <point x="55" y="634"/>
-      <point x="41" y="616" type="curve" smooth="yes"/>
-      <point x="26" y="597"/>
-      <point x="-3" y="593"/>
-      <point x="-21" y="608" type="curve" smooth="yes"/>
-      <point x="-48" y="629"/>
-      <point x="-101" y="669"/>
-      <point x="-137" y="689" type="curve" smooth="yes"/>
-      <point x="-158" y="701"/>
-      <point x="-166" y="728"/>
-      <point x="-155" y="749" type="curve" smooth="yes"/>
-      <point x="-143" y="770"/>
-      <point x="-115" y="778"/>
+      <point x="-95" y="787" type="curve" smooth="yes"/>
+      <point x="-55" y="765"/>
+      <point x="4" y="721"/>
+      <point x="33" y="698" type="curve" smooth="yes"/>
+      <point x="52" y="683"/>
+      <point x="55" y="654"/>
+      <point x="41" y="636" type="curve" smooth="yes"/>
+      <point x="26" y="617"/>
+      <point x="-3" y="613"/>
+      <point x="-21" y="628" type="curve" smooth="yes"/>
+      <point x="-48" y="649"/>
+      <point x="-101" y="689"/>
+      <point x="-137" y="709" type="curve" smooth="yes"/>
+      <point x="-158" y="721"/>
+      <point x="-166" y="748"/>
+      <point x="-155" y="769" type="curve" smooth="yes"/>
+      <point x="-143" y="790"/>
+      <point x="-115" y="798"/>
     </contour>
   </outline>
   <lib>
@@ -30,34 +30,44 @@
         <key>mask</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>gravecmb.cap</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>0</integer>
         </dict>
         <key>wire</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>gravecmb.cap</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>0</integer>
         </dict>

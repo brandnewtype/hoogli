@@ -4,30 +4,30 @@
   <unicode hex="02D8"/>
   <outline>
     <contour>
-      <point x="180" y="604" type="curve" smooth="yes"/>
-      <point x="196" y="580"/>
-      <point x="219" y="558"/>
-      <point x="249" y="558" type="curve" smooth="yes"/>
-      <point x="282" y="558"/>
-      <point x="299" y="579"/>
-      <point x="314" y="603" type="curve" smooth="yes"/>
-      <point x="326" y="623"/>
-      <point x="356" y="629"/>
-      <point x="376" y="616" type="curve" smooth="yes"/>
-      <point x="396" y="604"/>
-      <point x="405" y="575"/>
-      <point x="392" y="555" type="curve" smooth="yes"/>
-      <point x="359" y="501"/>
-      <point x="316" y="470"/>
-      <point x="249" y="470" type="curve" smooth="yes"/>
-      <point x="191" y="470"/>
-      <point x="138" y="502"/>
-      <point x="104" y="554" type="curve" smooth="yes"/>
-      <point x="90" y="574"/>
-      <point x="98" y="603"/>
-      <point x="118" y="616" type="curve" smooth="yes"/>
-      <point x="138" y="629"/>
-      <point x="167" y="624"/>
+      <point x="180" y="624" type="curve" smooth="yes"/>
+      <point x="196" y="600"/>
+      <point x="219" y="578"/>
+      <point x="249" y="578" type="curve" smooth="yes"/>
+      <point x="282" y="578"/>
+      <point x="299" y="599"/>
+      <point x="314" y="623" type="curve" smooth="yes"/>
+      <point x="326" y="643"/>
+      <point x="356" y="649"/>
+      <point x="376" y="636" type="curve" smooth="yes"/>
+      <point x="396" y="624"/>
+      <point x="405" y="595"/>
+      <point x="392" y="575" type="curve" smooth="yes"/>
+      <point x="359" y="521"/>
+      <point x="316" y="490"/>
+      <point x="249" y="490" type="curve" smooth="yes"/>
+      <point x="191" y="490"/>
+      <point x="138" y="522"/>
+      <point x="104" y="574" type="curve" smooth="yes"/>
+      <point x="90" y="594"/>
+      <point x="98" y="623"/>
+      <point x="118" y="636" type="curve" smooth="yes"/>
+      <point x="138" y="649"/>
+      <point x="167" y="644"/>
     </contour>
   </outline>
   <lib>
@@ -36,7 +36,7 @@
       <array>
         <dict>
           <key>angle</key>
-          <real>90</real>
+          <real>90.0</real>
           <key>isGlobal</key>
           <false/>
           <key>magnetic</key>
@@ -52,34 +52,44 @@
         <key>mask</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>breve</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>495</integer>
         </dict>
         <key>wire</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>breve</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>495</integer>
         </dict>

@@ -4,32 +4,32 @@
   <unicode hex="02DA"/>
   <outline>
     <contour>
-      <point x="380" y="546" type="curve" smooth="yes"/>
-      <point x="380" y="486"/>
-      <point x="334" y="426"/>
-      <point x="253" y="426" type="curve" smooth="yes"/>
-      <point x="174" y="426"/>
-      <point x="128" y="488"/>
-      <point x="128" y="546" type="curve" smooth="yes"/>
-      <point x="128" y="604"/>
-      <point x="174" y="666"/>
-      <point x="253" y="666" type="curve" smooth="yes"/>
-      <point x="334" y="666"/>
-      <point x="380" y="606"/>
+      <point x="380" y="566" type="curve" smooth="yes"/>
+      <point x="380" y="506"/>
+      <point x="334" y="446"/>
+      <point x="253" y="446" type="curve" smooth="yes"/>
+      <point x="174" y="446"/>
+      <point x="128" y="508"/>
+      <point x="128" y="566" type="curve" smooth="yes"/>
+      <point x="128" y="624"/>
+      <point x="174" y="686"/>
+      <point x="253" y="686" type="curve" smooth="yes"/>
+      <point x="334" y="686"/>
+      <point x="380" y="626"/>
     </contour>
     <contour>
-      <point x="294" y="546" type="curve" smooth="yes"/>
-      <point x="294" y="566"/>
-      <point x="279" y="581"/>
-      <point x="253" y="581" type="curve" smooth="yes"/>
-      <point x="230" y="581"/>
-      <point x="214" y="565"/>
-      <point x="214" y="546" type="curve" smooth="yes"/>
-      <point x="214" y="528"/>
-      <point x="230" y="512"/>
-      <point x="253" y="512" type="curve" smooth="yes"/>
-      <point x="277" y="512"/>
-      <point x="294" y="526"/>
+      <point x="294" y="566" type="curve" smooth="yes"/>
+      <point x="294" y="586"/>
+      <point x="279" y="601"/>
+      <point x="253" y="601" type="curve" smooth="yes"/>
+      <point x="230" y="601"/>
+      <point x="214" y="585"/>
+      <point x="214" y="566" type="curve" smooth="yes"/>
+      <point x="214" y="548"/>
+      <point x="230" y="532"/>
+      <point x="253" y="532" type="curve" smooth="yes"/>
+      <point x="277" y="532"/>
+      <point x="294" y="546"/>
     </contour>
   </outline>
   <lib>
@@ -39,44 +39,54 @@
         <key>mask</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>ring</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>495</integer>
         </dict>
         <key>wire</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>ring</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>495</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>1</real>
-        <real>0.84240000000000004</real>
-        <real>0.67420000000000002</real>
-        <real>1</real>
+        <real>1.0</real>
+        <real>0.8424</real>
+        <real>0.6742</real>
+        <real>1.0</real>
       </array>
     </dict>
   </lib>

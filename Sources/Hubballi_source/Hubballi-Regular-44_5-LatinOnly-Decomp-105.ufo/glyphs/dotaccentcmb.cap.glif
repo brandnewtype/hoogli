@@ -3,18 +3,18 @@
   <advance width="0"/>
   <outline>
     <contour>
-      <point x="-5" y="760" type="curve" smooth="yes"/>
-      <point x="23" y="760"/>
-      <point x="63" y="741"/>
-      <point x="63" y="687" type="curve" smooth="yes"/>
-      <point x="63" y="637"/>
-      <point x="25" y="617"/>
-      <point x="-5" y="617" type="curve" smooth="yes"/>
-      <point x="-43" y="617"/>
-      <point x="-76" y="642"/>
-      <point x="-76" y="687" type="curve"/>
-      <point x="-76" y="735"/>
-      <point x="-40" y="760"/>
+      <point x="-5" y="780" type="curve" smooth="yes"/>
+      <point x="23" y="780"/>
+      <point x="63" y="761"/>
+      <point x="63" y="707" type="curve" smooth="yes"/>
+      <point x="63" y="657"/>
+      <point x="25" y="637"/>
+      <point x="-5" y="637" type="curve" smooth="yes"/>
+      <point x="-43" y="637"/>
+      <point x="-76" y="662"/>
+      <point x="-76" y="707" type="curve"/>
+      <point x="-76" y="755"/>
+      <point x="-40" y="780"/>
     </contour>
   </outline>
   <lib>
@@ -24,34 +24,44 @@
         <key>mask</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>dotaccentcmb.cap</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>0</integer>
         </dict>
         <key>wire</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>dotaccentcmb.cap</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>0</integer>
         </dict>
