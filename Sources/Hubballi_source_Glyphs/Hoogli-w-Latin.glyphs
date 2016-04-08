@@ -1,15 +1,5 @@
 {
 .appVersion = "871";
-DisplayStrings = (
-/dotlessi,
-/iogonek,
-/Iogonek,
-/uogonek,
-/Uogonek,
-A/Aogonek,
-/aogonek,
-/Eogonek/eogonek/ogonek/Iogonek/iogonek/Uogonek/uogonek
-);
 copyright = "Copyright 2015 The Hoogli Authors";
 customParameters = (
 {
@@ -129164,7 +129154,7 @@ width = 530;
 {
 color = -1;
 glyphname = oslash;
-lastChange = "2016-04-08 19:44:36 +0000";
+lastChange = "2016-04-08 20:22:32 +0000";
 layers = (
 {
 components = (
@@ -129177,20 +129167,20 @@ paths = (
 {
 closed = 1;
 nodes = (
-"60 38 CURVE SMOOTH",
-"401 380 LINE SMOOTH",
-"409 387 OFFCURVE",
-"422 387 OFFCURVE",
-"430 379 CURVE SMOOTH",
-"438 372 OFFCURVE",
-"438 358 OFFCURVE",
-"431 350 CURVE SMOOTH",
-"90 8 LINE SMOOTH",
-"82 1 OFFCURVE",
-"69 1 OFFCURVE",
-"61 9 CURVE SMOOTH",
-"53 16 OFFCURVE",
-"53 30 OFFCURVE"
+"40 38 CURVE SMOOTH",
+"381 380 LINE SMOOTH",
+"389 388 OFFCURVE",
+"402 387 OFFCURVE",
+"410 379 CURVE SMOOTH",
+"418 371 OFFCURVE",
+"419 358 OFFCURVE",
+"411 350 CURVE SMOOTH",
+"70 8 LINE SMOOTH",
+"62 0 OFFCURVE",
+"49 1 OFFCURVE",
+"41 9 CURVE SMOOTH",
+"33 17 OFFCURVE",
+"32 30 OFFCURVE"
 );
 }
 );
