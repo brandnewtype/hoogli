@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iogonek" format="1">
+  <advance width="249"/>
+  <unicode hex="012E"/>
+  <outline>
+    <contour>
+      <point x="173" y="507" type="curve" smooth="yes"/>
+      <point x="173" y="22" type="line" smooth="yes"/>
+      <point x="173" y="0"/>
+      <point x="148" y="-19"/>
+      <point x="124" y="-19" type="curve" smooth="yes"/>
+      <point x="100" y="-19"/>
+      <point x="75" y="0"/>
+      <point x="75" y="22" type="curve" smooth="yes"/>
+      <point x="75" y="507" type="line" smooth="yes"/>
+      <point x="75" y="530"/>
+      <point x="100" y="549"/>
+      <point x="124" y="549" type="curve" smooth="yes"/>
+      <point x="148" y="549"/>
+      <point x="173" y="530"/>
+    </contour>
+    <contour>
+      <point x="173" y="23" type="curve" smooth="yes"/>
+      <point x="173" y="-11" type="line" smooth="yes"/>
+      <point x="173" y="-21"/>
+      <point x="166" y="-36"/>
+      <point x="157" y="-42" type="curve" smooth="yes"/>
+      <point x="90" y="-95"/>
+      <point x="65" y="-114"/>
+      <point x="65" y="-136" type="curve" smooth="yes"/>
+      <point x="65" y="-159"/>
+      <point x="120" y="-155"/>
+      <point x="146" y="-155" type="curve" smooth="yes"/>
+      <point x="169" y="-155"/>
+      <point x="189" y="-174"/>
+      <point x="189" y="-196" type="curve" smooth="yes"/>
+      <point x="189" y="-218"/>
+      <point x="169" y="-237"/>
+      <point x="146" y="-237" type="curve" smooth="yes"/>
+      <point x="8" y="-237"/>
+      <point x="-21" y="-182"/>
+      <point x="-21" y="-136" type="curve" smooth="yes"/>
+      <point x="-21" y="-103"/>
+      <point x="-10" y="-67"/>
+      <point x="103" y="20" type="curve"/>
+      <point x="75" y="-11" type="line"/>
+      <point x="75" y="23" type="line" smooth="yes"/>
+      <point x="75" y="45"/>
+      <point x="107" y="64"/>
+      <point x="130" y="64" type="curve" smooth="yes"/>
+      <point x="153" y="64"/>
+      <point x="173" y="45"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-04-08 22:32:35 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Iogonek</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>249</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Iogonek</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>249</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.842</real>
+        <real>0.674</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0122" format="1">
   <advance width="629"/>
+  <unicode hex="0122"/>
   <outline>
     <contour>
       <point x="479" y="448" type="curve" smooth="yes"/>
@@ -101,6 +102,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-04-08 22:32:35 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>mask</key>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2126" format="1">
   <advance width="642"/>
+  <unicode hex="2126"/>
   <outline>
     <contour>
       <point x="425" y="71" type="curve" smooth="yes"/>
@@ -75,6 +76,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-04-08 22:32:35 +0000</string>
       <key>com.typemytype.robofont.guides</key>
       <array>
         <dict>
@@ -82,8 +85,6 @@
           <integer>0</integer>
           <key>isGlobal</key>
           <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
           <key>x</key>
           <integer>234</integer>
           <key>y</key>

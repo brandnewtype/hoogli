@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sacute" format="1">
+  <advance width="531"/>
+  <unicode hex="015A"/>
+  <outline>
+    <contour>
+      <point x="387" y="444" type="curve" smooth="yes"/>
+      <point x="342" y="461"/>
+      <point x="310" y="471"/>
+      <point x="245" y="471" type="curve" smooth="yes"/>
+      <point x="192" y="471"/>
+      <point x="151" y="444"/>
+      <point x="151" y="409" type="curve" smooth="yes"/>
+      <point x="151" y="372"/>
+      <point x="179" y="336"/>
+      <point x="276" y="318" type="curve" smooth="yes"/>
+      <point x="441" y="284"/>
+      <point x="487" y="215"/>
+      <point x="487" y="135" type="curve" smooth="yes"/>
+      <point x="487" y="54"/>
+      <point x="427" y="-28"/>
+      <point x="266" y="-28" type="curve" smooth="yes"/>
+      <point x="195" y="-28"/>
+      <point x="128" y="-12"/>
+      <point x="68" y="20" type="curve" smooth="yes"/>
+      <point x="47" y="31"/>
+      <point x="39" y="58"/>
+      <point x="51" y="77" type="curve" smooth="yes"/>
+      <point x="62" y="96"/>
+      <point x="90" y="104"/>
+      <point x="110" y="94" type="curve" smooth="yes"/>
+      <point x="158" y="68"/>
+      <point x="211" y="56"/>
+      <point x="266" y="56" type="curve" smooth="yes"/>
+      <point x="345" y="56"/>
+      <point x="389" y="90"/>
+      <point x="389" y="135" type="curve" smooth="yes"/>
+      <point x="389" y="185"/>
+      <point x="349" y="217"/>
+      <point x="258" y="236" type="curve" smooth="yes"/>
+      <point x="75" y="271"/>
+      <point x="53" y="347"/>
+      <point x="53" y="409" type="curve"/>
+      <point x="53" y="480"/>
+      <point x="120" y="554"/>
+      <point x="245" y="554" type="curve" smooth="yes"/>
+      <point x="326" y="554"/>
+      <point x="364" y="543"/>
+      <point x="419" y="522" type="curve" smooth="yes"/>
+      <point x="441" y="514"/>
+      <point x="453" y="489"/>
+      <point x="444" y="468" type="curve" smooth="yes"/>
+      <point x="435" y="447"/>
+      <point x="409" y="436"/>
+    </contour>
+    <contour>
+      <point x="410" y="687" type="curve" smooth="yes"/>
+      <point x="363" y="661"/>
+      <point x="313" y="631"/>
+      <point x="284" y="610" type="curve" smooth="yes"/>
+      <point x="265" y="597"/>
+      <point x="237" y="602"/>
+      <point x="223" y="620" type="curve" smooth="yes"/>
+      <point x="208" y="638"/>
+      <point x="213" y="666"/>
+      <point x="232" y="679" type="curve" smooth="yes"/>
+      <point x="263" y="700"/>
+      <point x="315" y="731"/>
+      <point x="364" y="760" type="curve" smooth="yes"/>
+      <point x="384" y="771"/>
+      <point x="412" y="764"/>
+      <point x="425" y="745" type="curve" smooth="yes"/>
+      <point x="437" y="725"/>
+      <point x="430" y="699"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-04-08 22:32:35 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Sacute</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>531</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Sacute</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>531</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

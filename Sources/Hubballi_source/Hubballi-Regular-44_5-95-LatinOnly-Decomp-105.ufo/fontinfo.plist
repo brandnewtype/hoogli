@@ -49,24 +49,14 @@
 		<integer>555</integer>
 		<integer>559</integer>
 	</array>
-	<key>postscriptFamilyBlues</key>
-	<array>
-	</array>
-	<key>postscriptFamilyOtherBlues</key>
-	<array>
-	</array>
+	<key>postscriptFontName</key>
+	<string>Hubballi-Regular</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 		<integer>464</integer>
 		<integer>471</integer>
 		<integer>633</integer>
 		<integer>634</integer>
-	</array>
-	<key>postscriptStemSnapH</key>
-	<array>
-	</array>
-	<key>postscriptStemSnapV</key>
-	<array>
 	</array>
 	<key>styleMapStyleName</key>
 	<string>regular</string>

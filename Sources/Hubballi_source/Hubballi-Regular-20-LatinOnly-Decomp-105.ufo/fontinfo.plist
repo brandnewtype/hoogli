@@ -49,6 +49,8 @@
 		<integer>555</integer>
 		<integer>559</integer>
 	</array>
+	<key>postscriptFontName</key>
+	<string>Hubballi-Regular</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 		<integer>464</integer>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macroncmb.case" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="116" y="660" type="curve" smooth="yes"/>
+      <point x="-125" y="660" type="line" smooth="yes"/>
+      <point x="-149" y="660"/>
+      <point x="-169" y="679"/>
+      <point x="-169" y="702" type="curve" smooth="yes"/>
+      <point x="-169" y="725"/>
+      <point x="-149" y="744"/>
+      <point x="-125" y="744" type="curve" smooth="yes"/>
+      <point x="116" y="744" type="line" smooth="yes"/>
+      <point x="140" y="744"/>
+      <point x="160" y="725"/>
+      <point x="160" y="702" type="curve" smooth="yes"/>
+      <point x="160" y="679"/>
+      <point x="140" y="660"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-04-08 22:34:56 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>macroncmb.case</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>0</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>macroncmb.case</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>0</integer>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Umacron" format="1">
+  <advance width="627"/>
+  <unicode hex="016A"/>
+  <outline>
+    <contour>
+      <point x="156" y="508" type="curve" smooth="yes"/>
+      <point x="156" y="212" type="line" smooth="yes"/>
+      <point x="156" y="116"/>
+      <point x="216" y="57"/>
+      <point x="311" y="57" type="curve" smooth="yes"/>
+      <point x="417" y="57"/>
+      <point x="471" y="116"/>
+      <point x="471" y="215" type="curve" smooth="yes"/>
+      <point x="471" y="508" type="line" smooth="yes"/>
+      <point x="471" y="531"/>
+      <point x="496" y="550"/>
+      <point x="520" y="550" type="curve" smooth="yes"/>
+      <point x="544" y="550"/>
+      <point x="569" y="531"/>
+      <point x="569" y="508" type="curve" smooth="yes"/>
+      <point x="569" y="215" type="line" smooth="yes"/>
+      <point x="569" y="56"/>
+      <point x="473" y="-27"/>
+      <point x="311" y="-27" type="curve" smooth="yes"/>
+      <point x="166" y="-27"/>
+      <point x="58" y="56"/>
+      <point x="58" y="212" type="curve"/>
+      <point x="58" y="508" type="line" smooth="yes"/>
+      <point x="58" y="531"/>
+      <point x="83" y="550"/>
+      <point x="107" y="550" type="curve" smooth="yes"/>
+      <point x="131" y="550"/>
+      <point x="156" y="531"/>
+    </contour>
+    <contour>
+      <point x="429" y="642" type="curve" smooth="yes"/>
+      <point x="188" y="642" type="line" smooth="yes"/>
+      <point x="164" y="642"/>
+      <point x="144" y="661"/>
+      <point x="144" y="684" type="curve" smooth="yes"/>
+      <point x="144" y="706"/>
+      <point x="164" y="725"/>
+      <point x="188" y="725" type="curve" smooth="yes"/>
+      <point x="429" y="725" type="line" smooth="yes"/>
+      <point x="453" y="725"/>
+      <point x="473" y="706"/>
+      <point x="473" y="684" type="curve" smooth="yes"/>
+      <point x="473" y="661"/>
+      <point x="453" y="642"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-04-08 22:32:35 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Umacron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>627</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Umacron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>627</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
