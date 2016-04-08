@@ -2,10 +2,12 @@
 .appVersion = "871";
 DisplayStrings = (
 T/bKa/bSignIi,
-"A\U00C1/Abreve \U00C2\U00C4\U00C0/Amacron/Aogonek \U00C5\U00C3\U00C6BC/Cacute/Ccaron \U00C7D\U00D0/Dcaron/Dcroat E\U00C9/Ecaron \U00CA\U00CB/Edotaccent \U00C8/Emacron/Eogonek FG/Gbreve HI\U00CD\U00CE\U00CF/Idotaccent \U00CC/Imacron/Iogonek JKL/Lacute/Lcaron/Lslash MN/Nacute/Ncaron \U00D1O\U00D3\U00D4\U00D6\U00D2/Ohungarumlaut/Omacron \U00D8\U00D5/OE P\U00DEQR/Racute/Rcaron S/Sacute/Scaron T/Tcaron U\U00DA\U00DB\U00DC\U00D9/Uhungarumlaut/Umacron/Uogonek/Uring VWXY\U00DD/Ydieresis Z/Zacute/Zcaron/Zdotaccent/uni0122/uni0136/uni013B/uni0145/uni0156/uni015E/uni0162/uni0218/uni021A a\U00E1/abreve \U00E2\U00E4\U00E0/amacron/aogonek \U00E5\U00E3\U00E6bc/cacute/ccaron \U00E7d\U00F0/dcaron/dcroat e\U00E9/ecaron \U00EA\U00EB/edotaccent \U00E8/emacron/eogonek fg/gbreve hi/dotlessi \U00ED\U00EE\U00EF\U00EC/imacron/iogonek jkl/lacute/lcaron/lslash mn/nacute/ncaron \U00F1o\U00F3\U00F4\U00F6\U00F2/ohungarumlaut/omacron \U00F8\U00F5/oe p\U00FEqr/racute/rcaron s/sacute/scaron \U00DFt/tcaron u\U00FA\U00FB\U00FC\U00F9/uhungarumlaut/umacron/uni0123/uni0137/uni013C/uni0146/uni0157/uni015F/uni0163/uni0219/uni021B/uogonek/uring vwxy\U00FD/ydieresis z/zacute/zcaron/zdotaccent/fi/fl \U00AA\U00BA/pi 0123456789/fraction \U00BD\U00BC\U00BE/onesuperior/twosuperior/threesuperior */backslash \U00B7/bullet :,/ellipsis !\U00A1#.?\U00BF\"';//_{}[]()/emdash/endash -\U00AD\U00AB\U00BB/guilsinglleft/guilsinglright/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright/quotesinglbase  \015/.notdef/Euro \U00A2\U00A4$/florin \U00A3/uni20BA/uni20BD \U00A5/approxequal ~\U00F7=>/greaterequal/infinity/integral </lessequal \U00AC/minus \U00D7/notequal/partialdiff %/perthousand +\U00B1/product/radical/summation \U00B5/uni2126/uni2206/uni2215/uni2219/lozenge |\U00A6@&\U00B6\U00A9\U00AE\U00A7/trademark \U00B0/uni2113 ^/dagger/daggerdbl \U00B4/breve/caron \U00B8/circumflex \U00A8/dotaccent `/hungarumlaut \U00AF/ogonek/ring/tilde/commaaccent/uni02C9",
+"A\U00C1/Abreve \U00C2\U00C4\U00C0/Amacron/Aogonek \U00C5\U00C3\U00C6BC/Cacute/Ccaron \U00C7D\U00D0/Dcaron/Dcroat E\U00C9/Ecaron \U00CA\U00CB/Edotaccent \U00C8/Emacron/Eogonek FG/Gbreve HI\U00CD\U00CE\U00CF/Idotaccent \U00CC/Imacron/Iogonek JKL/Lacute/Lcaron/Lslash MN/Nacute/Ncaron \U00D1O\U00D3\U00D4\U00D6\U00D2/Ohungarumlaut/Omacron \U00D8\U00D5/OE P\U00DEQR/Racute/Rcaron S/Sacute/Scaron T/Tcaron U\U00DA\U00DB\U00DC\U00D9/Uhungarumlaut/Umacron/Uogonek/Uring VWXY\U00DD/Ydieresis oZ/Zacute/Zcaron/Zdotaccent/uni0122/uni0136/uni013B/uni0145/uni0156/uni015E/uni0162/uni0218/uni021A a\U00E1/abreve \U00E2\U00E4\U00E0/amacron/aogonek \U00E5\U00E3\U00E6bc/cacute/ccaron \U00E7d\U00F0/dcaron/dcroat e\U00E9/ecaron \U00EA\U00EB/edotaccent \U00E8/emacron/eogonek fg/gbreve hi/dotlessi \U00ED\U00EE\U00EF\U00EC/imacron/iogonek jkl/lacute/lcaron/lslash mn/nacute/ncaron \U00F1o\U00F3\U00F4\U00F6\U00F2/ohungarumlaut/omacron \U00F8\U00F5/oe p\U00FEqr/racute/rcaron s/sacute/scaron \U00DFt/tcaron u\U00FA\U00FB\U00FC\U00F9/uhungarumlaut/umacron/uni0123/uni0137/uni013C/uni0146/uni0157/uni015F/uni0163/uni0219/uni021B/uogonek/uring vwxy\U00FD/ydieresis z/zacute/zcaron/zdotaccent/fi/fl \U00AA\U00BA/pi 0123456789/fraction \U00BD\U00BC\U00BE/onesuperior/twosuperior/threesuperior */backslash \U00B7/bullet :,/ellipsis !\U00A1#.?\U00BF\"';//_{}[]()/emdash/endash -\U00AD\U00AB\U00BB/guilsinglleft/guilsinglright/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright/quotesinglbase  \015/.notdef/Euro \U00A2\U00A4$/florin \U00A3/uni20BA/uni20BD \U00A5/approxequal ~\U00F7=>/greaterequal/infinity/integral </lessequal \U00AC/minus \U00D7/notequal/partialdiff %/perthousand +\U00B1/product/radical/summation \U00B5/uni2126/uni2206/uni2215/uni2219/lozenge |\U00A6@&\U00B6\U00A9\U00AE\U00A7/trademark \U00B0/uni2113 ^/dagger/daggerdbl \U00B4/breve/caron \U00B8/circumflex \U00A8/dotaccent `/hungarumlaut \U00AF/ogonek/ring/tilde/commaaccent/uni02C9",
 "\U00B5",
 /dotlessi,
-/pi
+/pi,
+"\U00C1",
+A
 );
 copyright = "Copyright 2015 The Hoogli Authors";
 customParameters = (
@@ -109,9 +111,19 @@ xHeight = 500;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2016-04-08 20:35:15 +0000";
+lastChange = "2016-04-08 20:56:49 +0000";
 layers = (
 {
+anchors = (
+{
+name = ogonek;
+position = "{521, -7}";
+},
+{
+name = top;
+position = "{282, 542}";
+}
+);
 layerId = "F2EBC5D5-DDE2-4851-B52F-F2293ECE9CC7";
 paths = (
 {
@@ -183,6 +195,16 @@ nodes = (
 width = 579;
 },
 {
+anchors = (
+{
+name = ogonek;
+position = "{526, 38}";
+},
+{
+name = top;
+position = "{287, 565}";
+}
+);
 layerId = "A309AC34-D742-49E2-8DE7-30304959F2B2";
 paths = (
 {
@@ -3065,9 +3087,19 @@ width = 524;
 },
 {
 glyphname = C;
-lastChange = "2016-04-08 20:35:15 +0000";
+lastChange = "2016-04-08 20:56:39 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{315, -14}";
+},
+{
+name = top;
+position = "{322, 550}";
+}
+);
 layerId = "F2EBC5D5-DDE2-4851-B52F-F2293ECE9CC7";
 paths = (
 {
@@ -3115,6 +3147,16 @@ nodes = (
 width = 564;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{317, -20}";
+},
+{
+name = top;
+position = "{319, 558}";
+}
+);
 layerId = "A309AC34-D742-49E2-8DE7-30304959F2B2";
 paths = (
 {
@@ -3789,9 +3831,15 @@ width = 564;
 },
 {
 glyphname = D;
-lastChange = "2016-04-08 20:35:15 +0000";
+lastChange = "2016-04-08 20:56:11 +0000";
 layers = (
 {
+anchors = (
+{
+name = top;
+position = "{244, 540}";
+}
+);
 layerId = "F2EBC5D5-DDE2-4851-B52F-F2293ECE9CC7";
 paths = (
 {
@@ -3834,6 +3882,12 @@ nodes = (
 width = 613;
 },
 {
+anchors = (
+{
+name = top;
+position = "{259, 550}";
+}
+);
 layerId = "A309AC34-D742-49E2-8DE7-30304959F2B2";
 paths = (
 {
@@ -4453,9 +4507,19 @@ width = 628;
 },
 {
 glyphname = E;
-lastChange = "2016-04-08 20:35:15 +0000";
+lastChange = "2016-04-08 20:56:22 +0000";
 layers = (
 {
+anchors = (
+{
+name = ogonek;
+position = "{413, 11}";
+},
+{
+name = top;
+position = "{246, 541}";
+}
+);
 layerId = "F2EBC5D5-DDE2-4851-B52F-F2293ECE9CC7";
 paths = (
 {
@@ -4538,6 +4602,16 @@ nodes = (
 width = 481;
 },
 {
+anchors = (
+{
+name = ogonek;
+position = "{420, 28}";
+},
+{
+name = top;
+position = "{260, 549}";
+}
+);
 layerId = "A309AC34-D742-49E2-8DE7-30304959F2B2";
 paths = (
 {
@@ -6958,9 +7032,19 @@ width = 469;
 },
 {
 glyphname = G;
-lastChange = "2016-04-08 20:35:15 +0000";
+lastChange = "2016-04-08 20:56:00 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{328, -17}";
+},
+{
+name = top;
+position = "{302, 549}";
+}
+);
 layerId = "F2EBC5D5-DDE2-4851-B52F-F2293ECE9CC7";
 paths = (
 {
@@ -7046,6 +7130,12 @@ nodes = (
 width = 619;
 },
 {
+anchors = (
+{
+name = top;
+position = "{320, 557}";
+}
+);
 layerId = "A309AC34-D742-49E2-8DE7-30304959F2B2";
 paths = (
 {
@@ -7610,9 +7700,23 @@ width = 633;
 },
 {
 glyphname = I;
-lastChange = "2016-04-08 20:35:15 +0000";
+lastChange = "2016-04-08 20:55:54 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{119, -9}";
+},
+{
+name = ogonek;
+position = "{122, -11}";
+},
+{
+name = top;
+position = "{119, 540}";
+}
+);
 layerId = "F2EBC5D5-DDE2-4851-B52F-F2293ECE9CC7";
 paths = (
 {
@@ -7638,6 +7742,20 @@ nodes = (
 width = 239;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{124, -14}";
+},
+{
+name = ogonek;
+position = "{127, -12}";
+},
+{
+name = top;
+position = "{122, 548}";
+}
+);
 layerId = "A309AC34-D742-49E2-8DE7-30304959F2B2";
 paths = (
 {
@@ -8838,9 +8956,15 @@ width = 378;
 },
 {
 glyphname = K;
-lastChange = "2016-04-08 20:35:15 +0000";
+lastChange = "2016-04-08 20:55:33 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{271, 13}";
+}
+);
 layerId = "F2EBC5D5-DDE2-4851-B52F-F2293ECE9CC7";
 paths = (
 {
@@ -8912,6 +9036,12 @@ nodes = (
 width = 555;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{284, 29}";
+}
+);
 layerId = "A309AC34-D742-49E2-8DE7-30304959F2B2";
 paths = (
 {
@@ -9029,9 +9159,19 @@ width = 555;
 },
 {
 glyphname = L;
-lastChange = "2016-04-08 20:35:15 +0000";
+lastChange = "2016-04-08 20:55:25 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{250, -8}";
+},
+{
+name = top;
+position = "{114, 540}";
+}
+);
 layerId = "F2EBC5D5-DDE2-4851-B52F-F2293ECE9CC7";
 paths = (
 {
@@ -9076,6 +9216,16 @@ nodes = (
 width = 452;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{266, -11}";
+},
+{
+name = top;
+position = "{118, 547}";
+}
+);
 layerId = "A309AC34-D742-49E2-8DE7-30304959F2B2";
 paths = (
 {
@@ -9916,9 +10066,19 @@ width = 831;
 },
 {
 glyphname = N;
-lastChange = "2016-04-08 20:35:15 +0000";
+lastChange = "2016-04-08 20:55:03 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{303, 33}";
+},
+{
+name = top;
+position = "{325, 516}";
+}
+);
 layerId = "F2EBC5D5-DDE2-4851-B52F-F2293ECE9CC7";
 paths = (
 {
@@ -9986,6 +10146,16 @@ nodes = (
 width = 637;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{307, 38}";
+},
+{
+name = top;
+position = "{329, 523}";
+}
+);
 layerId = "A309AC34-D742-49E2-8DE7-30304959F2B2";
 paths = (
 {
@@ -10837,9 +11007,19 @@ width = 637;
 },
 {
 glyphname = O;
-lastChange = "2016-04-08 20:35:15 +0000";
+lastChange = "2016-04-08 20:55:13 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{324, -17}";
+},
+{
+name = top;
+position = "{323, 551}";
+}
+);
 layerId = "F2EBC5D5-DDE2-4851-B52F-F2293ECE9CC7";
 paths = (
 {
@@ -10880,6 +11060,16 @@ nodes = (
 width = 642;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{330, -20}";
+},
+{
+name = top;
+position = "{326, 561}";
+}
+);
 layerId = "A309AC34-D742-49E2-8DE7-30304959F2B2";
 paths = (
 {
@@ -13152,9 +13342,19 @@ width = 642;
 },
 {
 glyphname = R;
-lastChange = "2016-04-08 20:35:15 +0000";
+lastChange = "2016-04-08 20:54:43 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{264, 25}";
+},
+{
+name = top;
+position = "{225, 540}";
+}
+);
 layerId = "F2EBC5D5-DDE2-4851-B52F-F2293ECE9CC7";
 paths = (
 {
@@ -13219,6 +13419,16 @@ nodes = (
 width = 538;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{281, 30}";
+},
+{
+name = top;
+position = "{230, 551}";
+}
+);
 layerId = "A309AC34-D742-49E2-8DE7-30304959F2B2";
 paths = (
 {
@@ -13794,9 +14004,19 @@ width = 538;
 },
 {
 glyphname = S;
-lastChange = "2016-04-08 20:35:15 +0000";
+lastChange = "2016-04-08 20:54:25 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{263, -21}";
+},
+{
+name = top;
+position = "{238, 546}";
+}
+);
 layerId = "F2EBC5D5-DDE2-4851-B52F-F2293ECE9CC7";
 paths = (
 {
@@ -13856,6 +14076,16 @@ nodes = (
 width = 521;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{248, -23}";
+},
+{
+name = top;
+position = "{240, 556}";
+}
+);
 layerId = "A309AC34-D742-49E2-8DE7-30304959F2B2";
 paths = (
 {
@@ -14409,9 +14639,19 @@ width = 521;
 },
 {
 glyphname = T;
-lastChange = "2016-04-08 20:35:15 +0000";
+lastChange = "2016-04-08 20:54:15 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{270, -8}";
+},
+{
+name = top;
+position = "{270, 540}";
+}
+);
 layerId = "F2EBC5D5-DDE2-4851-B52F-F2293ECE9CC7";
 paths = (
 {
@@ -14456,6 +14696,16 @@ nodes = (
 width = 543;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{277, -9}";
+},
+{
+name = top;
+position = "{274, 551}";
+}
+);
 layerId = "A309AC34-D742-49E2-8DE7-30304959F2B2";
 paths = (
 {
@@ -14777,9 +15027,19 @@ width = 543;
 },
 {
 glyphname = U;
-lastChange = "2016-04-08 20:35:15 +0000";
+lastChange = "2016-04-08 20:53:49 +0000";
 layers = (
 {
+anchors = (
+{
+name = ogonek;
+position = "{317, -10}";
+},
+{
+name = top;
+position = "{304, 508}";
+}
+);
 layerId = "F2EBC5D5-DDE2-4851-B52F-F2293ECE9CC7";
 paths = (
 {
@@ -14819,6 +15079,16 @@ nodes = (
 width = 617;
 },
 {
+anchors = (
+{
+name = ogonek;
+position = "{324, 6}";
+},
+{
+name = top;
+position = "{309, 508}";
+}
+);
 layerId = "A309AC34-D742-49E2-8DE7-30304959F2B2";
 paths = (
 {
@@ -16916,9 +17186,15 @@ width = 561;
 },
 {
 glyphname = Y;
-lastChange = "2016-04-08 20:35:15 +0000";
+lastChange = "2016-04-08 20:53:58 +0000";
 layers = (
 {
+anchors = (
+{
+name = top;
+position = "{276, 515}";
+}
+);
 layerId = "F2EBC5D5-DDE2-4851-B52F-F2293ECE9CC7";
 paths = (
 {
@@ -16990,6 +17266,12 @@ nodes = (
 width = 558;
 },
 {
+anchors = (
+{
+name = top;
+position = "{291, 517}";
+}
+);
 layerId = "A309AC34-D742-49E2-8DE7-30304959F2B2";
 paths = (
 {
@@ -17588,9 +17870,15 @@ width = 558;
 },
 {
 glyphname = Z;
-lastChange = "2016-04-08 20:35:15 +0000";
+lastChange = "2016-04-08 20:53:19 +0000";
 layers = (
 {
+anchors = (
+{
+name = top;
+position = "{268, 541}";
+}
+);
 layerId = "F2EBC5D5-DDE2-4851-B52F-F2293ECE9CC7";
 paths = (
 {
@@ -17658,6 +17946,12 @@ nodes = (
 width = 561;
 },
 {
+anchors = (
+{
+name = top;
+position = "{267, 549}";
+}
+);
 layerId = "A309AC34-D742-49E2-8DE7-30304959F2B2";
 paths = (
 {
@@ -20397,9 +20691,19 @@ width = 545;
 },
 {
 glyphname = a;
-lastChange = "2016-04-08 20:35:15 +0000";
+lastChange = "2016-04-08 20:52:53 +0000";
 layers = (
 {
+anchors = (
+{
+name = ogonek;
+position = "{400, 1}";
+},
+{
+name = top;
+position = "{205, 397}";
+}
+);
 layerId = "F2EBC5D5-DDE2-4851-B52F-F2293ECE9CC7";
 paths = (
 {
@@ -20490,6 +20794,16 @@ nodes = (
 width = 446;
 },
 {
+anchors = (
+{
+name = ogonek;
+position = "{408, 29}";
+},
+{
+name = top;
+position = "{216, 410}";
+}
+);
 layerId = "A309AC34-D742-49E2-8DE7-30304959F2B2";
 paths = (
 {
@@ -23663,9 +23977,19 @@ width = 510;
 },
 {
 glyphname = c;
-lastChange = "2016-04-08 20:35:15 +0000";
+lastChange = "2016-04-08 20:53:06 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{243, -4}";
+},
+{
+name = top;
+position = "{243, 395}";
+}
+);
 layerId = "F2EBC5D5-DDE2-4851-B52F-F2293ECE9CC7";
 paths = (
 {
@@ -23713,6 +24037,16 @@ nodes = (
 width = 438;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{245, -5}";
+},
+{
+name = top;
+position = "{257, 411}";
+}
+);
 layerId = "A309AC34-D742-49E2-8DE7-30304959F2B2";
 paths = (
 {
@@ -25176,9 +25510,23 @@ width = 512;
 },
 {
 glyphname = e;
-lastChange = "2016-04-08 20:35:15 +0000";
+lastChange = "2016-04-08 20:52:34 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{235, -4}";
+},
+{
+name = ogonek;
+position = "{366, 35}";
+},
+{
+name = top;
+position = "{230, 395}";
+}
+);
 layerId = "F2EBC5D5-DDE2-4851-B52F-F2293ECE9CC7";
 paths = (
 {
@@ -25234,6 +25582,20 @@ nodes = (
 width = 463;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{255, 5}";
+},
+{
+name = ogonek;
+position = "{389, 74}";
+},
+{
+name = top;
+position = "{246, 430}";
+}
+);
 layerId = "A309AC34-D742-49E2-8DE7-30304959F2B2";
 paths = (
 {
@@ -27172,9 +27534,15 @@ width = 304;
 },
 {
 glyphname = g;
-lastChange = "2016-04-08 20:35:15 +0000";
+lastChange = "2016-04-08 20:51:49 +0000";
 layers = (
 {
+anchors = (
+{
+name = top;
+position = "{257, 400}";
+}
+);
 layerId = "F2EBC5D5-DDE2-4851-B52F-F2293ECE9CC7";
 paths = (
 {
@@ -27247,6 +27615,12 @@ nodes = (
 width = 508;
 },
 {
+anchors = (
+{
+name = top;
+position = "{260, 417}";
+}
+);
 layerId = "A309AC34-D742-49E2-8DE7-30304959F2B2";
 paths = (
 {
@@ -27900,9 +28274,23 @@ width = 214;
 },
 {
 glyphname = dotlessi;
-lastChange = "2016-04-08 20:35:15 +0000";
+lastChange = "2016-04-08 20:50:57 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{93, -6}";
+},
+{
+name = ogonek;
+position = "{93, -6}";
+},
+{
+name = top;
+position = "{93, 394}";
+}
+);
 layerId = "F2EBC5D5-DDE2-4851-B52F-F2293ECE9CC7";
 paths = (
 {
@@ -27928,6 +28316,20 @@ nodes = (
 width = 187;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{98, -11}";
+},
+{
+name = ogonek;
+position = "{99, -10}";
+},
+{
+name = top;
+position = "{97, 411}";
+}
+);
 layerId = "A309AC34-D742-49E2-8DE7-30304959F2B2";
 paths = (
 {
@@ -29068,9 +29470,15 @@ width = 214;
 },
 {
 glyphname = k;
-lastChange = "2016-04-08 20:35:15 +0000";
+lastChange = "2016-04-08 20:51:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{226, 29}";
+}
+);
 layerId = "F2EBC5D5-DDE2-4851-B52F-F2293ECE9CC7";
 paths = (
 {
@@ -29134,6 +29542,12 @@ nodes = (
 width = 462;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{244, 12}";
+}
+);
 layerId = "A309AC34-D742-49E2-8DE7-30304959F2B2";
 paths = (
 {
@@ -29243,9 +29657,15 @@ width = 462;
 },
 {
 glyphname = l;
-lastChange = "2016-04-08 20:35:15 +0000";
+lastChange = "2016-04-08 20:51:10 +0000";
 layers = (
 {
+anchors = (
+{
+name = top;
+position = "{108, 569}";
+}
+);
 layerId = "F2EBC5D5-DDE2-4851-B52F-F2293ECE9CC7";
 paths = (
 {
@@ -29271,6 +29691,12 @@ nodes = (
 width = 214;
 },
 {
+anchors = (
+{
+name = top;
+position = "{111, 572}";
+}
+);
 layerId = "A309AC34-D742-49E2-8DE7-30304959F2B2";
 paths = (
 {
@@ -29954,9 +30380,19 @@ width = 760;
 },
 {
 glyphname = n;
-lastChange = "2016-04-08 20:35:15 +0000";
+lastChange = "2016-04-08 20:51:20 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{240, 30}";
+},
+{
+name = top;
+position = "{254, 402}";
+}
+);
 layerId = "F2EBC5D5-DDE2-4851-B52F-F2293ECE9CC7";
 paths = (
 {
@@ -30013,6 +30449,16 @@ nodes = (
 width = 492;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{246, 34}";
+},
+{
+name = top;
+position = "{265, 413}";
+}
+);
 layerId = "A309AC34-D742-49E2-8DE7-30304959F2B2";
 paths = (
 {
@@ -30791,9 +31237,19 @@ width = 492;
 },
 {
 glyphname = o;
-lastChange = "2016-04-08 20:35:15 +0000";
+lastChange = "2016-04-08 20:51:37 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{254, -9}";
+},
+{
+name = top;
+position = "{254, 399}";
+}
+);
 layerId = "F2EBC5D5-DDE2-4851-B52F-F2293ECE9CC7";
 paths = (
 {
@@ -30834,6 +31290,16 @@ nodes = (
 width = 510;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{261, -12}";
+},
+{
+name = top;
+position = "{258, 416}";
+}
+);
 layerId = "A309AC34-D742-49E2-8DE7-30304959F2B2";
 paths = (
 {
@@ -33144,9 +33610,19 @@ width = 510;
 },
 {
 glyphname = r;
-lastChange = "2016-04-08 20:35:15 +0000";
+lastChange = "2016-04-08 20:49:59 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{103, -5}";
+},
+{
+name = top;
+position = "{180, 396}";
+}
+);
 layerId = "F2EBC5D5-DDE2-4851-B52F-F2293ECE9CC7";
 paths = (
 {
@@ -33195,6 +33671,16 @@ nodes = (
 width = 351;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{106, -12}";
+},
+{
+name = top;
+position = "{206, 420}";
+}
+);
 layerId = "A309AC34-D742-49E2-8DE7-30304959F2B2";
 paths = (
 {
@@ -33695,9 +34181,19 @@ width = 351;
 },
 {
 glyphname = s;
-lastChange = "2016-04-08 20:35:15 +0000";
+lastChange = "2016-04-08 20:50:08 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{230, -8}";
+},
+{
+name = top;
+position = "{225, 395}";
+}
+);
 layerId = "F2EBC5D5-DDE2-4851-B52F-F2293ECE9CC7";
 paths = (
 {
@@ -33759,6 +34255,16 @@ nodes = (
 width = 449;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{233, -13}";
+},
+{
+name = top;
+position = "{232, 418}";
+}
+);
 layerId = "A309AC34-D742-49E2-8DE7-30304959F2B2";
 paths = (
 {
@@ -34518,9 +35024,15 @@ width = 504;
 },
 {
 glyphname = t;
-lastChange = "2016-04-08 20:35:15 +0000";
+lastChange = "2016-04-08 20:50:27 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{170, -2}";
+}
+);
 layerId = "F2EBC5D5-DDE2-4851-B52F-F2293ECE9CC7";
 paths = (
 {
@@ -34571,6 +35083,12 @@ nodes = (
 width = 342;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{169, -13}";
+}
+);
 layerId = "A309AC34-D742-49E2-8DE7-30304959F2B2";
 paths = (
 {
@@ -34589,7 +35107,7 @@ nodes = (
 "282 -13 CURVE SMOOTH",
 "138 -10 OFFCURVE",
 "82 47 OFFCURVE",
-"82 144 CURVE",
+"82 144 CURVE SMOOTH",
 "82 491 LINE SMOOTH",
 "82 514 OFFCURVE",
 "107 533 OFFCURVE",
@@ -34847,9 +35365,15 @@ width = 342;
 },
 {
 glyphname = u;
-lastChange = "2016-04-08 20:35:15 +0000";
+lastChange = "2016-04-08 20:49:36 +0000";
 layers = (
 {
+anchors = (
+{
+name = top;
+position = "{231, 390}";
+}
+);
 layerId = "F2EBC5D5-DDE2-4851-B52F-F2293ECE9CC7";
 paths = (
 {
@@ -34906,6 +35430,12 @@ nodes = (
 width = 492;
 },
 {
+anchors = (
+{
+name = top;
+position = "{243, 378}";
+}
+);
 layerId = "A309AC34-D742-49E2-8DE7-30304959F2B2";
 paths = (
 {
@@ -39085,9 +39615,15 @@ width = 439;
 },
 {
 glyphname = y;
-lastChange = "2016-04-08 20:35:15 +0000";
+lastChange = "2016-04-08 20:49:17 +0000";
 layers = (
 {
+anchors = (
+{
+name = top;
+position = "{217, 374}";
+}
+);
 layerId = "F2EBC5D5-DDE2-4851-B52F-F2293ECE9CC7";
 paths = (
 {
@@ -39146,6 +39682,12 @@ nodes = (
 width = 443;
 },
 {
+anchors = (
+{
+name = top;
+position = "{229, 385}";
+}
+);
 layerId = "A309AC34-D742-49E2-8DE7-30304959F2B2";
 paths = (
 {
@@ -39679,9 +40221,15 @@ width = 443;
 },
 {
 glyphname = z;
-lastChange = "2016-04-08 20:35:15 +0000";
+lastChange = "2016-04-08 20:49:08 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{210, 397}";
+}
+);
 layerId = "F2EBC5D5-DDE2-4851-B52F-F2293ECE9CC7";
 paths = (
 {
@@ -39745,6 +40293,12 @@ nodes = (
 width = 436;
 },
 {
+anchors = (
+{
+name = top;
+position = "{215, 411}";
+}
+);
 layerId = "A309AC34-D742-49E2-8DE7-30304959F2B2";
 paths = (
 {
