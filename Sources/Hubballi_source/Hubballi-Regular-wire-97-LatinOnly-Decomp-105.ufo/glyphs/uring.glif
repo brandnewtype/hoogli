@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uring" format="1">
+  <advance width="522"/>
+  <unicode hex="016F"/>
+  <outline>
+    <contour>
+      <point x="406" y="377" type="move"/>
+      <point x="406" y="29" type="line"/>
+    </contour>
+    <contour>
+      <point x="105" y="377" type="move"/>
+      <point x="105" y="174" type="line" smooth="yes"/>
+      <point x="105" y="67"/>
+      <point x="155" y="29"/>
+      <point x="223" y="29" type="curve" smooth="yes"/>
+      <point x="289" y="29"/>
+      <point x="358" y="78"/>
+      <point x="402" y="138" type="curve"/>
+    </contour>
+    <contour>
+      <point x="345" y="524" type="curve" smooth="yes"/>
+      <point x="345" y="565"/>
+      <point x="311" y="603"/>
+      <point x="254" y="603" type="curve" smooth="yes"/>
+      <point x="200" y="603"/>
+      <point x="166" y="563"/>
+      <point x="166" y="524" type="curve" smooth="yes"/>
+      <point x="166" y="485"/>
+      <point x="200" y="444"/>
+      <point x="254" y="444" type="curve" smooth="yes"/>
+      <point x="311" y="444"/>
+      <point x="345" y="482"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uring</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>522</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uring</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>522</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

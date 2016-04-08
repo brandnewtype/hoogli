@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asciitilde" format="1">
+  <advance width="612"/>
+  <unicode hex="007E"/>
+  <outline>
+    <contour>
+      <point x="113" y="228" type="move"/>
+      <point x="148" y="296"/>
+      <point x="179" y="331"/>
+      <point x="222" y="331" type="curve" smooth="yes"/>
+      <point x="258" y="331"/>
+      <point x="280" y="306"/>
+      <point x="309" y="276" type="curve" smooth="yes"/>
+      <point x="340" y="241"/>
+      <point x="366" y="220"/>
+      <point x="400" y="220" type="curve" smooth="yes"/>
+      <point x="448" y="220"/>
+      <point x="477" y="256"/>
+      <point x="516" y="335" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>asciitilde</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>612</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>asciitilde</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>612</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

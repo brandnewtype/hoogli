@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcaron" format="1">
+  <advance width="372"/>
+  <unicode hex="0165"/>
+  <outline>
+    <contour>
+      <point x="315" y="644" type="move"/>
+      <point x="292" y="515" type="line"/>
+    </contour>
+    <contour>
+      <point x="141" y="504" type="move"/>
+      <point x="141" y="147" type="line" smooth="yes"/>
+      <point x="141" y="72"/>
+      <point x="187" y="30"/>
+      <point x="293" y="28" type="curve"/>
+    </contour>
+    <contour>
+      <point x="48" y="376" type="move"/>
+      <point x="307" y="376" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>tcaron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>372</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>tcaron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>372</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

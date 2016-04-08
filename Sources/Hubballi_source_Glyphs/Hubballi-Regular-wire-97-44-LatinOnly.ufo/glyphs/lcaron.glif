@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcaron" format="1">
+  <advance width="232"/>
+  <unicode hex="013E"/>
+  <outline>
+    <contour>
+      <point x="334" y="419" type="line"/>
+      <point x="331" y="395"/>
+      <point x="303" y="379"/>
+      <point x="279" y="382" type="curve"/>
+      <point x="256" y="386"/>
+      <point x="234" y="410"/>
+      <point x="238" y="433" type="curve"/>
+      <point x="258" y="566" type="line"/>
+      <point x="261" y="590"/>
+      <point x="289" y="606"/>
+      <point x="313" y="603" type="curve"/>
+      <point x="336" y="599"/>
+      <point x="358" y="575"/>
+      <point x="354" y="552" type="curve"/>
+    </contour>
+    <component base="l"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-04-08 19:27:26 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>lcaron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>351</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>lcaron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>351</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

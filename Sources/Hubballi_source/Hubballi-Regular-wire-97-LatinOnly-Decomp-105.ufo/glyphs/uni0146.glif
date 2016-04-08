@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0146" format="1">
+  <advance width="522"/>
+  <outline>
+    <contour>
+      <point x="116" y="33" type="move"/>
+      <point x="116" y="381" type="line"/>
+    </contour>
+    <contour>
+      <point x="417" y="33" type="move"/>
+      <point x="417" y="237" type="line" smooth="yes"/>
+      <point x="417" y="344"/>
+      <point x="366" y="381"/>
+      <point x="299" y="381" type="curve" smooth="yes"/>
+      <point x="233" y="381"/>
+      <point x="170" y="342"/>
+      <point x="120" y="292" type="curve"/>
+    </contour>
+    <contour>
+      <point x="267" y="-86" type="move"/>
+      <point x="273" y="-98"/>
+      <point x="276" y="-110"/>
+      <point x="276" y="-124" type="curve" smooth="yes"/>
+      <point x="276" y="-163"/>
+      <point x="245" y="-198"/>
+      <point x="195" y="-220" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni0146</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>522</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni0146</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>522</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

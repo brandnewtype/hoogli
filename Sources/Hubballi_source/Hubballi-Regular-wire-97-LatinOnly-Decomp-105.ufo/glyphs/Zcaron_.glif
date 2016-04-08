@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zcaron" format="1">
+  <advance width="591"/>
+  <unicode hex="017D"/>
+  <outline>
+    <contour>
+      <point x="485" y="520" type="move"/>
+      <point x="419" y="423"/>
+      <point x="153" y="117"/>
+      <point x="98" y="34" type="curve"/>
+    </contour>
+    <contour>
+      <point x="107" y="520" type="move"/>
+      <point x="474" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="93" y="25" type="move"/>
+      <point x="498" y="25" type="line"/>
+    </contour>
+    <contour>
+      <point x="308" y="668" type="move"/>
+      <point x="342" y="692"/>
+      <point x="379" y="717"/>
+      <point x="408" y="739" type="curve"/>
+    </contour>
+    <contour>
+      <point x="200" y="739" type="move"/>
+      <point x="229" y="717"/>
+      <point x="265" y="692"/>
+      <point x="300" y="668" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Zcaron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>591</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Zcaron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>591</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

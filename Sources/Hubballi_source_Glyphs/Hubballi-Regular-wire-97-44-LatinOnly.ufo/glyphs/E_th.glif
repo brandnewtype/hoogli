@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eth" format="1">
+  <advance width="627"/>
+  <unicode hex="00D0"/>
+  <outline>
+    <contour>
+      <point x="310" y="324" type="line"/>
+      <point x="334" y="324"/>
+      <point x="354" y="304"/>
+      <point x="354" y="280" type="curve"/>
+      <point x="354" y="256"/>
+      <point x="334" y="236"/>
+      <point x="310" y="236" type="curve"/>
+      <point x="64" y="236" type="line"/>
+      <point x="40" y="236"/>
+      <point x="20" y="256"/>
+      <point x="20" y="280" type="curve"/>
+      <point x="20" y="304"/>
+      <point x="40" y="324"/>
+      <point x="64" y="324" type="curve"/>
+    </contour>
+    <component base="D" xOffset="15"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-04-08 19:33:49 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Eth</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>627</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Eth</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>627</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

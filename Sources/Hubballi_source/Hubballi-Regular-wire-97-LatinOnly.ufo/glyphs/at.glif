@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="at" format="1">
+  <advance width="665"/>
+  <unicode hex="0040"/>
+  <outline>
+    <contour>
+      <point x="422" y="385" type="move"/>
+      <point x="422" y="261" type="line" smooth="yes"/>
+      <point x="422" y="202"/>
+      <point x="459" y="167"/>
+      <point x="504" y="167" type="curve" smooth="yes"/>
+      <point x="554" y="167"/>
+      <point x="591" y="210"/>
+      <point x="591" y="285" type="curve" smooth="yes"/>
+      <point x="591" y="405"/>
+      <point x="497" y="518"/>
+      <point x="336" y="518" type="curve" smooth="yes"/>
+      <point x="186" y="518"/>
+      <point x="76" y="405"/>
+      <point x="76" y="271" type="curve" smooth="yes"/>
+      <point x="76" y="137"/>
+      <point x="183" y="33"/>
+      <point x="339" y="33" type="curve" smooth="yes"/>
+      <point x="401" y="33"/>
+      <point x="453" y="46"/>
+      <point x="492" y="63" type="curve"/>
+    </contour>
+    <contour>
+      <point x="422" y="359" type="move"/>
+      <point x="396" y="376"/>
+      <point x="368" y="385"/>
+      <point x="331" y="385" type="curve" smooth="yes"/>
+      <point x="271" y="385"/>
+      <point x="220" y="341"/>
+      <point x="220" y="267" type="curve" smooth="yes"/>
+      <point x="220" y="205"/>
+      <point x="265" y="168"/>
+      <point x="313" y="168" type="curve" smooth="yes"/>
+      <point x="353" y="168"/>
+      <point x="393" y="190"/>
+      <point x="421" y="237" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>at</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>665</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>at</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>665</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

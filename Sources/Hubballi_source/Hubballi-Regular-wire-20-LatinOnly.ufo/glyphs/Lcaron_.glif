@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcaron" format="1">
+  <advance width="459"/>
+  <unicode hex="013D"/>
+  <outline>
+    <contour>
+      <point x="345" y="517" type="curve" smooth="yes"/>
+      <point x="325" y="378" type="line" smooth="yes"/>
+      <point x="324" y="368"/>
+      <point x="309" y="361"/>
+      <point x="298" y="362" type="curve" smooth="yes"/>
+      <point x="287" y="364"/>
+      <point x="275" y="375"/>
+      <point x="277" y="386" type="curve" smooth="yes"/>
+      <point x="297" y="525" type="line" smooth="yes"/>
+      <point x="298" y="535"/>
+      <point x="313" y="542"/>
+      <point x="324" y="541" type="curve" smooth="yes"/>
+      <point x="335" y="539"/>
+      <point x="347" y="528"/>
+    </contour>
+    <component base="L"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Lcaron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>459</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Lcaron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>459</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

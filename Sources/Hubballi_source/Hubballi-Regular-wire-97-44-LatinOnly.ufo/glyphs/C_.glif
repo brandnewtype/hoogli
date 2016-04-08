@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="C" format="1">
+  <advance width="566"/>
+  <unicode hex="0043"/>
+  <outline>
+    <contour>
+      <point x="450" y="450" type="curve" smooth="yes"/>
+      <point x="422" y="464"/>
+      <point x="379" y="473"/>
+      <point x="334" y="473" type="curve" smooth="yes"/>
+      <point x="225" y="473"/>
+      <point x="135" y="390"/>
+      <point x="135" y="272" type="curve" smooth="yes"/>
+      <point x="135" y="164"/>
+      <point x="209" y="78"/>
+      <point x="340" y="78" type="curve" smooth="yes"/>
+      <point x="385" y="78"/>
+      <point x="424" y="87"/>
+      <point x="456" y="103" type="curve" smooth="yes"/>
+      <point x="477" y="113"/>
+      <point x="504" y="104"/>
+      <point x="515" y="82" type="curve" smooth="yes"/>
+      <point x="525" y="61"/>
+      <point x="516" y="34"/>
+      <point x="494" y="23" type="curve" smooth="yes"/>
+      <point x="452" y="3"/>
+      <point x="399" y="-10"/>
+      <point x="340" y="-10" type="curve" smooth="yes"/>
+      <point x="149" y="-10"/>
+      <point x="37" y="112"/>
+      <point x="37" y="272" type="curve"/>
+      <point x="37" y="448"/>
+      <point x="177" y="561"/>
+      <point x="334" y="561" type="curve" smooth="yes"/>
+      <point x="395" y="561"/>
+      <point x="452" y="548"/>
+      <point x="490" y="528" type="curve" smooth="yes"/>
+      <point x="511" y="517"/>
+      <point x="520" y="490"/>
+      <point x="509" y="469" type="curve" smooth="yes"/>
+      <point x="498" y="448"/>
+      <point x="471" y="439"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>C</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>566</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>C</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>566</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

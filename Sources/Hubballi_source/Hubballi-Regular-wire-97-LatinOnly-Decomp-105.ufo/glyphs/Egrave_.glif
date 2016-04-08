@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Egrave" format="1">
+  <advance width="511"/>
+  <unicode hex="00C8"/>
+  <outline>
+    <contour>
+      <point x="129" y="520" type="move"/>
+      <point x="129" y="25" type="line"/>
+    </contour>
+    <contour>
+      <point x="138" y="25" type="move"/>
+      <point x="422" y="25" type="line"/>
+    </contour>
+    <contour>
+      <point x="138" y="520" type="move"/>
+      <point x="420" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="138" y="291" type="move"/>
+      <point x="375" y="291" type="line"/>
+    </contour>
+    <contour>
+      <point x="164" y="742" type="move"/>
+      <point x="202" y="721"/>
+      <point x="257" y="681"/>
+      <point x="286" y="659" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Egrave</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>511</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Egrave</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>511</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

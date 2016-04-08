@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abreve" format="1">
+  <advance width="589"/>
+  <unicode hex="0102"/>
+  <outline>
+    <contour>
+      <point x="328" y="498" type="curve" smooth="yes"/>
+      <point x="258" y="346"/>
+      <point x="159" y="133"/>
+      <point x="112" y="8" type="curve" smooth="yes"/>
+      <point x="104" y="-13"/>
+      <point x="75" y="-24"/>
+      <point x="52" y="-16" type="curve" smooth="yes"/>
+      <point x="30" y="-10"/>
+      <point x="14" y="16"/>
+      <point x="22" y="38" type="curve" smooth="yes"/>
+      <point x="69" y="165"/>
+      <point x="170" y="380"/>
+      <point x="242" y="534" type="curve" smooth="yes"/>
+      <point x="251" y="555"/>
+      <point x="281" y="563"/>
+      <point x="303" y="554" type="curve" smooth="yes"/>
+      <point x="324" y="545"/>
+      <point x="338" y="519"/>
+    </contour>
+    <contour>
+      <point x="334" y="535" type="curve" smooth="yes"/>
+      <point x="410" y="380"/>
+      <point x="514" y="163"/>
+      <point x="564" y="39" type="curve" smooth="yes"/>
+      <point x="573" y="18"/>
+      <point x="558" y="-9"/>
+      <point x="536" y="-16" type="curve" smooth="yes"/>
+      <point x="514" y="-25"/>
+      <point x="484" y="-14"/>
+      <point x="476" y="7" type="curve" smooth="yes"/>
+      <point x="426" y="129"/>
+      <point x="324" y="344"/>
+      <point x="248" y="497" type="curve" smooth="yes"/>
+      <point x="238" y="518"/>
+      <point x="251" y="544"/>
+      <point x="272" y="554" type="curve" smooth="yes"/>
+      <point x="294" y="563"/>
+      <point x="323" y="555"/>
+    </contour>
+    <contour>
+      <point x="139" y="210" type="curve" smooth="yes"/>
+      <point x="445" y="210" type="line" smooth="yes"/>
+      <point x="469" y="210"/>
+      <point x="489" y="191"/>
+      <point x="489" y="168" type="curve" smooth="yes"/>
+      <point x="489" y="145"/>
+      <point x="469" y="126"/>
+      <point x="445" y="126" type="curve" smooth="yes"/>
+      <point x="139" y="126" type="line" smooth="yes"/>
+      <point x="115" y="126"/>
+      <point x="95" y="145"/>
+      <point x="95" y="168" type="curve" smooth="yes"/>
+      <point x="95" y="191"/>
+      <point x="115" y="210"/>
+    </contour>
+    <contour>
+      <point x="191" y="754" type="curve" smooth="yes"/>
+      <point x="212" y="728"/>
+      <point x="244" y="707"/>
+      <point x="280" y="707" type="curve" smooth="yes"/>
+      <point x="319" y="707"/>
+      <point x="345" y="727"/>
+      <point x="364" y="752" type="curve" smooth="yes"/>
+      <point x="378" y="771"/>
+      <point x="408" y="775"/>
+      <point x="427" y="762" type="curve" smooth="yes"/>
+      <point x="447" y="749"/>
+      <point x="453" y="721"/>
+      <point x="440" y="703" type="curve" smooth="yes"/>
+      <point x="403" y="653"/>
+      <point x="351" y="623"/>
+      <point x="280" y="623" type="curve" smooth="yes"/>
+      <point x="216" y="623"/>
+      <point x="158" y="654"/>
+      <point x="119" y="701" type="curve" smooth="yes"/>
+      <point x="104" y="719"/>
+      <point x="109" y="747"/>
+      <point x="128" y="761" type="curve" smooth="yes"/>
+      <point x="147" y="774"/>
+      <point x="177" y="772"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Abreve</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>589</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Abreve</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>589</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

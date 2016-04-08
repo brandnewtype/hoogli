@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onehalf" format="1">
+  <advance width="780"/>
+  <unicode hex="00BD"/>
+  <outline>
+    <contour>
+      <point x="526" y="488" type="curve" smooth="yes"/>
+      <point x="243" y="22" type="line" smooth="yes"/>
+      <point x="233" y="5"/>
+      <point x="207" y="0"/>
+      <point x="189" y="11" type="curve" smooth="yes"/>
+      <point x="172" y="21"/>
+      <point x="164" y="46"/>
+      <point x="175" y="64" type="curve" smooth="yes"/>
+      <point x="458" y="530" type="line" smooth="yes"/>
+      <point x="468" y="547"/>
+      <point x="494" y="552"/>
+      <point x="512" y="541" type="curve" smooth="yes"/>
+      <point x="529" y="531"/>
+      <point x="537" y="506"/>
+    </contour>
+    <contour>
+      <point x="245" y="515" type="curve" smooth="yes"/>
+      <point x="245" y="268" type="line" smooth="yes"/>
+      <point x="245" y="247"/>
+      <point x="223" y="230"/>
+      <point x="202" y="230" type="curve" smooth="yes"/>
+      <point x="181" y="230"/>
+      <point x="159" y="247"/>
+      <point x="159" y="268" type="curve" smooth="yes"/>
+      <point x="159" y="515" type="line" smooth="yes"/>
+      <point x="159" y="536"/>
+      <point x="181" y="553"/>
+      <point x="202" y="553" type="curve" smooth="yes"/>
+      <point x="223" y="553"/>
+      <point x="245" y="536"/>
+    </contour>
+    <contour>
+      <point x="219" y="484" type="curve" smooth="yes"/>
+      <point x="137" y="442" type="line" smooth="yes"/>
+      <point x="119" y="433"/>
+      <point x="96" y="440"/>
+      <point x="86" y="459" type="curve" smooth="yes"/>
+      <point x="77" y="477"/>
+      <point x="84" y="501"/>
+      <point x="103" y="510" type="curve" smooth="yes"/>
+      <point x="185" y="552" type="line" smooth="yes"/>
+      <point x="203" y="561"/>
+      <point x="226" y="554"/>
+      <point x="236" y="535" type="curve" smooth="yes"/>
+      <point x="245" y="517"/>
+      <point x="238" y="493"/>
+    </contour>
+    <contour>
+      <point x="445" y="77" type="curve" smooth="yes"/>
+      <point x="534" y="156" type="line" smooth="yes"/>
+      <point x="576" y="194"/>
+      <point x="593" y="208"/>
+      <point x="593" y="232" type="curve" smooth="yes"/>
+      <point x="593" y="244"/>
+      <point x="578" y="251"/>
+      <point x="561" y="251" type="curve" smooth="yes"/>
+      <point x="539" y="251"/>
+      <point x="522" y="244"/>
+      <point x="504" y="233" type="curve" smooth="yes"/>
+      <point x="486" y="223"/>
+      <point x="462" y="229"/>
+      <point x="451" y="246" type="curve" smooth="yes"/>
+      <point x="441" y="264"/>
+      <point x="447" y="288"/>
+      <point x="464" y="299" type="curve" smooth="yes"/>
+      <point x="496" y="318"/>
+      <point x="525" y="327"/>
+      <point x="561" y="327" type="curve" smooth="yes"/>
+      <point x="646" y="327"/>
+      <point x="679" y="278"/>
+      <point x="679" y="232" type="curve" smooth="yes"/>
+      <point x="679" y="192"/>
+      <point x="660" y="166"/>
+      <point x="586" y="98" type="curve" smooth="yes"/>
+      <point x="497" y="19" type="line" smooth="yes"/>
+      <point x="481" y="5"/>
+      <point x="456" y="7"/>
+      <point x="443" y="23" type="curve" smooth="yes"/>
+      <point x="429" y="38"/>
+      <point x="430" y="63"/>
+    </contour>
+    <contour>
+      <point x="655" y="5" type="curve" smooth="yes"/>
+      <point x="466" y="5" type="line" smooth="yes"/>
+      <point x="445" y="5"/>
+      <point x="428" y="22"/>
+      <point x="428" y="43" type="curve" smooth="yes"/>
+      <point x="428" y="64"/>
+      <point x="445" y="81"/>
+      <point x="466" y="81" type="curve" smooth="yes"/>
+      <point x="655" y="81" type="line" smooth="yes"/>
+      <point x="676" y="81"/>
+      <point x="693" y="64"/>
+      <point x="693" y="43" type="curve" smooth="yes"/>
+      <point x="693" y="22"/>
+      <point x="676" y="5"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-04-08 02:21:04 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>onehalf</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>780</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>onehalf</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>780</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
