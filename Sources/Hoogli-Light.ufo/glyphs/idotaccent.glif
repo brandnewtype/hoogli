@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idotaccent" format="1">
+  <advance width="187"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="dotaccentcomb" xOffset="93"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-04-09 01:37:02 +0000</string>
+    </dict>
+  </lib>
+</glyph>

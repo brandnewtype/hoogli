@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcaron" format="1">
+  <advance width="352"/>
+  <unicode hex="0165"/>
+  <outline>
+    <contour>
+      <point x="298" y="473"/>
+      <point x="324" y="488"/>
+      <point x="328" y="510" type="curve" smooth="yes"/>
+      <point x="351" y="636" type="line" smooth="yes"/>
+      <point x="355" y="657"/>
+      <point x="336" y="679"/>
+      <point x="312" y="683" type="curve" smooth="yes"/>
+      <point x="289" y="687"/>
+      <point x="263" y="673"/>
+      <point x="259" y="650" type="curve" smooth="yes"/>
+      <point x="236" y="525" type="line" smooth="yes"/>
+      <point x="232" y="504"/>
+      <point x="253" y="481"/>
+      <point x="275" y="477" type="curve" smooth="yes"/>
+    </contour>
+    <component base="t"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-04-09 04:39:09 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>tcaron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>342</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>tcaron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>342</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
