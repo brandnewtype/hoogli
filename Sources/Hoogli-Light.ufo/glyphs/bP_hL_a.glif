@@ -39,34 +39,18 @@
       <point x="408" y="66" type="curve"/>
     </contour>
     <contour>
-      <point x="439" y="-82"/>
-      <point x="448" y="-71"/>
-      <point x="448" y="-57" type="curve" smooth="yes"/>
-      <point x="448" y="497" type="line" smooth="yes"/>
-      <point x="448" y="511"/>
-      <point x="439" y="522"/>
-      <point x="428" y="522" type="curve" smooth="yes"/>
-      <point x="417" y="522"/>
-      <point x="408" y="510"/>
-      <point x="408" y="496" type="curve" smooth="yes"/>
-      <point x="408" y="-57" type="line" smooth="yes"/>
-      <point x="408" y="-71"/>
-      <point x="417" y="-82"/>
-      <point x="428" y="-82" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="570" y="210"/>
-      <point x="555" y="225"/>
-      <point x="555" y="245" type="curve" smooth="yes"/>
-      <point x="555" y="264"/>
-      <point x="570" y="280"/>
-      <point x="590" y="280" type="curve" smooth="yes"/>
-      <point x="609" y="280"/>
-      <point x="625" y="264"/>
-      <point x="625" y="245" type="curve" smooth="yes"/>
-      <point x="625" y="225"/>
-      <point x="609" y="210"/>
-      <point x="590" y="210" type="curve" smooth="yes"/>
+      <point x="172" y="-62"/>
+      <point x="161" y="-52"/>
+      <point x="161" y="-37" type="curve" smooth="yes"/>
+      <point x="161" y="-22"/>
+      <point x="172" y="-12"/>
+      <point x="186" y="-12" type="curve" smooth="yes"/>
+      <point x="200" y="-12"/>
+      <point x="211" y="-22"/>
+      <point x="211" y="-37" type="curve" smooth="yes"/>
+      <point x="211" y="-52"/>
+      <point x="200" y="-62"/>
+      <point x="186" y="-62" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="220" y="-87"/>
@@ -127,6 +111,36 @@
       <point x="181" y="-87" type="curve" smooth="yes"/>
     </contour>
     <contour>
+      <point x="439" y="-82"/>
+      <point x="448" y="-71"/>
+      <point x="448" y="-57" type="curve" smooth="yes"/>
+      <point x="448" y="497" type="line" smooth="yes"/>
+      <point x="448" y="511"/>
+      <point x="439" y="522"/>
+      <point x="428" y="522" type="curve" smooth="yes"/>
+      <point x="417" y="522"/>
+      <point x="408" y="510"/>
+      <point x="408" y="496" type="curve" smooth="yes"/>
+      <point x="408" y="-57" type="line" smooth="yes"/>
+      <point x="408" y="-71"/>
+      <point x="417" y="-82"/>
+      <point x="428" y="-82" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="570" y="210"/>
+      <point x="555" y="225"/>
+      <point x="555" y="245" type="curve" smooth="yes"/>
+      <point x="555" y="264"/>
+      <point x="570" y="280"/>
+      <point x="590" y="280" type="curve" smooth="yes"/>
+      <point x="609" y="280"/>
+      <point x="625" y="264"/>
+      <point x="625" y="245" type="curve" smooth="yes"/>
+      <point x="625" y="225"/>
+      <point x="609" y="210"/>
+      <point x="590" y="210" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
       <point x="642" y="181"/>
       <point x="679" y="231"/>
       <point x="679" y="292" type="curve" smooth="yes"/>
@@ -176,25 +190,13 @@
       <point x="-11" y="554"/>
       <point x="0" y="554" type="curve" smooth="yes"/>
     </contour>
-    <contour>
-      <point x="172" y="-62"/>
-      <point x="161" y="-52"/>
-      <point x="161" y="-37" type="curve" smooth="yes"/>
-      <point x="161" y="-22"/>
-      <point x="172" y="-12"/>
-      <point x="186" y="-12" type="curve" smooth="yes"/>
-      <point x="200" y="-12"/>
-      <point x="211" y="-22"/>
-      <point x="211" y="-37" type="curve" smooth="yes"/>
-      <point x="211" y="-52"/>
-      <point x="200" y="-62"/>
-      <point x="186" y="-62" type="curve" smooth="yes"/>
-    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>9</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-04-09 04:39:09 +0000</string>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
     </dict>

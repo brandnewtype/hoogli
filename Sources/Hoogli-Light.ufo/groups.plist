@@ -39,7 +39,6 @@
 	<key>@MMK_L_K</key>
 	<array>
 		<string>K</string>
-		<string>uni0136</string>
 	</array>
 	<key>@MMK_L_L</key>
 	<array>
@@ -47,7 +46,6 @@
 		<string>Lacute</string>
 		<string>Lcaron</string>
 		<string>Lslash</string>
-		<string>uni013B</string>
 	</array>
 	<key>@MMK_L_O</key>
 	<array>
@@ -78,21 +76,17 @@
 		<string>R</string>
 		<string>Racute</string>
 		<string>Rcaron</string>
-		<string>uni0156</string>
 	</array>
 	<key>@MMK_L_S</key>
 	<array>
 		<string>S</string>
 		<string>Sacute</string>
 		<string>Scaron</string>
-		<string>uni015E</string>
-		<string>uni0218</string>
 	</array>
 	<key>@MMK_L_T</key>
 	<array>
 		<string>T</string>
 		<string>Tcaron</string>
-		<string>uni021A</string>
 	</array>
 	<key>@MMK_L_U</key>
 	<array>
@@ -129,9 +123,9 @@
 	<array>
 		<string>ordfeminine</string>
 		<string>ordmasculine</string>
-		<string>uni00B9</string>
-		<string>uni00B2</string>
-		<string>uni00B3</string>
+		<string>onesuperior</string>
+		<string>twosuperior</string>
+		<string>threesuperior</string>
 		<string>asterisk</string>
 		<string>registered</string>
 		<string>trademark</string>
@@ -146,24 +140,23 @@
 	</array>
 	<key>@MMK_L_exclam</key>
 	<array>
-		<string>guillemotleft</string>
+		<string>guillemetleft</string>
 		<string>guilsinglleft</string>
 	</array>
 	<key>@MMK_L_hyphen</key>
 	<array>
 		<string>emdash</string>
 		<string>endash</string>
-		<string>guillemotright</string>
+		<string>guillemetright</string>
 		<string>guilsinglright</string>
+		<string>plus</string>
+		<string>minus</string>
 		<string>divide</string>
 		<string>greater</string>
-		<string>minus</string>
-		<string>plus</string>
 	</array>
 	<key>@MMK_L_k</key>
 	<array>
 		<string>k</string>
-		<string>uni0137</string>
 	</array>
 	<key>@MMK_L_o</key>
 	<array>
@@ -215,14 +208,11 @@
 		<string>r</string>
 		<string>racute</string>
 		<string>rcaron</string>
-		<string>uni0157</string>
 	</array>
 	<key>@MMK_L_t</key>
 	<array>
 		<string>t</string>
 		<string>tcaron</string>
-		<string>uni0163</string>
-		<string>uni021B</string>
 	</array>
 	<key>@MMK_L_y</key>
 	<array>
@@ -270,7 +260,6 @@
 		<string>Otilde</string>
 		<string>OE</string>
 		<string>Q</string>
-		<string>uni0122</string>
 		<string>at</string>
 		<string>copyright</string>
 	</array>
@@ -279,15 +268,11 @@
 		<string>S</string>
 		<string>Sacute</string>
 		<string>Scaron</string>
-		<string>uni015E</string>
-		<string>uni0218</string>
 	</array>
 	<key>@MMK_R_T</key>
 	<array>
 		<string>T</string>
 		<string>Tcaron</string>
-		<string>uni0162</string>
-		<string>uni021A</string>
 	</array>
 	<key>@MMK_R_U</key>
 	<array>
@@ -332,9 +317,9 @@
 	<array>
 		<string>ordfeminine</string>
 		<string>ordmasculine</string>
-		<string>uni00B9</string>
-		<string>uni00B2</string>
-		<string>uni00B3</string>
+		<string>onesuperior</string>
+		<string>twosuperior</string>
+		<string>threesuperior</string>
 		<string>asterisk</string>
 		<string>registered</string>
 		<string>trademark</string>
@@ -342,7 +327,7 @@
 	</array>
 	<key>@MMK_R_exclam</key>
 	<array>
-		<string>guillemotright</string>
+		<string>guillemetright</string>
 		<string>guilsinglright</string>
 	</array>
 	<key>@MMK_R_f</key>
@@ -355,12 +340,12 @@
 	<array>
 		<string>emdash</string>
 		<string>endash</string>
-		<string>guillemotleft</string>
+		<string>guillemetleft</string>
 		<string>guilsinglleft</string>
+		<string>plus</string>
+		<string>minus</string>
 		<string>divide</string>
 		<string>less</string>
-		<string>minus</string>
-		<string>plus</string>
 	</array>
 	<key>@MMK_R_o</key>
 	<array>
@@ -394,7 +379,6 @@
 		<string>otilde</string>
 		<string>oe</string>
 		<string>q</string>
-		<string>uni0123</string>
 	</array>
 	<key>@MMK_R_parenright</key>
 	<array>
@@ -408,7 +392,7 @@
 	<key>@MMK_R_r</key>
 	<array>
 		<string>i</string>
-		<string>dotlessi</string>
+		<string>idotless</string>
 		<string>iacute</string>
 		<string>icircumflex</string>
 		<string>idieresis</string>
@@ -430,8 +414,6 @@
 		<string>ugrave</string>
 		<string>uhungarumlaut</string>
 		<string>umacron</string>
-		<string>uni0146</string>
-		<string>uni0157</string>
 		<string>uogonek</string>
 		<string>uring</string>
 	</array>
@@ -440,15 +422,11 @@
 		<string>s</string>
 		<string>sacute</string>
 		<string>scaron</string>
-		<string>uni015F</string>
-		<string>uni0219</string>
 	</array>
 	<key>@MMK_R_t</key>
 	<array>
 		<string>t</string>
 		<string>tcaron</string>
-		<string>uni0163</string>
-		<string>uni021B</string>
 	</array>
 	<key>@MMK_R_y</key>
 	<array>

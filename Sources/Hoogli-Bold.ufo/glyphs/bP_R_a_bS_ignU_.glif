@@ -37,6 +37,20 @@
       <point x="637" y="153" type="curve" smooth="yes"/>
     </contour>
     <contour>
+      <point x="658" y="325"/>
+      <point x="647" y="334"/>
+      <point x="647" y="348" type="curve" smooth="yes"/>
+      <point x="647" y="365"/>
+      <point x="658" y="372"/>
+      <point x="671" y="372" type="curve" smooth="yes"/>
+      <point x="682" y="372"/>
+      <point x="694" y="365"/>
+      <point x="694" y="348" type="curve" smooth="yes"/>
+      <point x="694" y="333"/>
+      <point x="682" y="325"/>
+      <point x="671" y="325" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
       <point x="804" y="502" type="line" smooth="yes"/>
       <point x="830" y="502"/>
       <point x="850" y="520"/>
@@ -52,26 +66,14 @@
       <point x="556" y="502"/>
       <point x="582" y="502" type="curve" smooth="yes"/>
     </contour>
-    <contour>
-      <point x="658" y="325"/>
-      <point x="647" y="334"/>
-      <point x="647" y="348" type="curve" smooth="yes"/>
-      <point x="647" y="365"/>
-      <point x="658" y="372"/>
-      <point x="671" y="372" type="curve" smooth="yes"/>
-      <point x="682" y="372"/>
-      <point x="694" y="365"/>
-      <point x="694" y="348" type="curve" smooth="yes"/>
-      <point x="694" y="333"/>
-      <point x="682" y="325"/>
-      <point x="671" y="325" type="curve" smooth="yes"/>
-    </contour>
     <component base="bPRa"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>9</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-04-09 04:39:09 +0000</string>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
     </dict>

@@ -3,41 +3,13 @@
   <advance width="239"/>
   <unicode hex="012A"/>
   <outline>
-    <contour>
-      <point x="139" y="516" type="curve" smooth="yes"/>
-      <point x="139" y="6" type="line" smooth="yes"/>
-      <point x="139" y="-5"/>
-      <point x="130" y="-14"/>
-      <point x="119" y="-14" type="curve" smooth="yes"/>
-      <point x="108" y="-14"/>
-      <point x="99" y="-5"/>
-      <point x="99" y="6" type="curve" smooth="yes"/>
-      <point x="99" y="516" type="line" smooth="yes"/>
-      <point x="99" y="527"/>
-      <point x="108" y="536"/>
-      <point x="119" y="536" type="curve" smooth="yes"/>
-      <point x="130" y="536"/>
-      <point x="139" y="527"/>
-    </contour>
-    <contour>
-      <point x="217" y="681" type="curve" smooth="yes"/>
-      <point x="23" y="681" type="line" smooth="yes"/>
-      <point x="12" y="681"/>
-      <point x="3" y="690"/>
-      <point x="3" y="701" type="curve" smooth="yes"/>
-      <point x="3" y="712"/>
-      <point x="12" y="721"/>
-      <point x="23" y="721" type="curve" smooth="yes"/>
-      <point x="217" y="721" type="line" smooth="yes"/>
-      <point x="228" y="721"/>
-      <point x="237" y="712"/>
-      <point x="237" y="701" type="curve" smooth="yes"/>
-      <point x="237" y="690"/>
-      <point x="228" y="681"/>
-    </contour>
+    <component base="I"/>
+    <component base="macroncomb.case" xOffset="143"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-04-09 02:00:25 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>mask</key>

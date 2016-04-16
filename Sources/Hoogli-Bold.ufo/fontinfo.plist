@@ -12,15 +12,12 @@
 	<integer>-200</integer>
 	<key>familyName</key>
 	<string>Hoogli</string>
-	<key>fsType</key>
-	<array>
-	</array>
 	<key>license</key>
 	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
 	<key>licenseURL</key>
 	<string>http://scripts.sil.org/OFL</string>
 	<key>openTypeHeadCreated</key>
-	<string>2016/03/15 15:43:38</string>
+	<string>2016/03/15 05:13:38</string>
 	<key>openTypeNameDesigner</key>
 	<string>Anand Singh Naorem</string>
 	<key>openTypeNameDesignerURL</key>
@@ -32,27 +29,32 @@
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>Hoogli</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Light</string>
+	<string>Bold</string>
+	<key>openTypeOS2Type</key>
+	<array>
+	</array>
+	<key>openTypeOS2VendorID</key>
+	<string>BRNT</string>
 	<key>openTypeOS2WeightClass</key>
-	<integer>300</integer>
+	<integer>700</integer>
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>postscriptBlueValues</key>
 	<array>
 	</array>
+	<key>postscriptFontName</key>
+	<string>Hoogli-Bold</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 	</array>
 	<key>styleMapFamilyName</key>
-	<string>Hoogli Light</string>
+	<string>Hoogli Bold</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
-	<string>Light</string>
+	<string>Bold</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
-	<key>vendorID</key>
-	<string>BRNT</string>
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>

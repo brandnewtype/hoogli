@@ -63,6 +63,20 @@
       <point x="585" y="-46" type="curve"/>
     </contour>
     <contour>
+      <point x="428" y="256"/>
+      <point x="414" y="273"/>
+      <point x="414" y="291" type="curve" smooth="yes"/>
+      <point x="414" y="310"/>
+      <point x="430" y="326"/>
+      <point x="450" y="326" type="curve" smooth="yes"/>
+      <point x="471" y="326"/>
+      <point x="484" y="310"/>
+      <point x="484" y="291" type="curve" smooth="yes"/>
+      <point x="484" y="273"/>
+      <point x="472" y="256"/>
+      <point x="449" y="256" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
       <point x="616" y="-82"/>
       <point x="625" y="-71"/>
       <point x="625" y="-57" type="curve" smooth="yes"/>
@@ -105,20 +119,6 @@
       <point x="605" y="-82" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="428" y="256"/>
-      <point x="414" y="273"/>
-      <point x="414" y="291" type="curve" smooth="yes"/>
-      <point x="414" y="310"/>
-      <point x="430" y="326"/>
-      <point x="450" y="326" type="curve" smooth="yes"/>
-      <point x="471" y="326"/>
-      <point x="484" y="310"/>
-      <point x="484" y="291" type="curve" smooth="yes"/>
-      <point x="484" y="273"/>
-      <point x="472" y="256"/>
-      <point x="449" y="256" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
       <point x="506" y="231"/>
       <point x="539" y="285"/>
       <point x="539" y="334" type="curve" smooth="yes"/>
@@ -157,6 +157,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>9</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-04-09 04:39:09 +0000</string>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
     </dict>

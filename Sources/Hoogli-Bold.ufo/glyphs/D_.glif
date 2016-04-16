@@ -4,38 +4,43 @@
   <unicode hex="0044"/>
   <outline>
     <contour>
-      <point x="304" y="-33" type="curve" smooth="yes"/>
-      <point x="119" y="-33" type="line" smooth="yes"/>
-      <point x="92" y="-33"/>
-      <point x="70" y="-13"/>
-      <point x="70" y="11" type="curve"/>
-      <point x="70" y="520" type="line"/>
-      <point x="70" y="544"/>
-      <point x="92" y="564"/>
-      <point x="119" y="564" type="curve" smooth="yes"/>
-      <point x="304" y="564" type="line" smooth="yes"/>
-      <point x="452" y="564"/>
-      <point x="591" y="446"/>
-      <point x="591" y="266" type="curve" smooth="yes"/>
-      <point x="591" y="95"/>
-      <point x="474" y="-33"/>
+      <point x="304" y="-13" type="line" smooth="yes"/>
+      <point x="474" y="-13"/>
+      <point x="591" y="107"/>
+      <point x="591" y="268" type="curve" smooth="yes"/>
+      <point x="591" y="438"/>
+      <point x="452" y="549"/>
+      <point x="304" y="549" type="curve" smooth="yes"/>
+      <point x="119" y="549" type="line" smooth="yes"/>
+      <point x="92" y="549"/>
+      <point x="70" y="530"/>
+      <point x="70" y="507" type="curve"/>
+      <point x="70" y="29" type="line"/>
+      <point x="70" y="5"/>
+      <point x="92" y="-13"/>
+      <point x="119" y="-13" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="304" y="55" type="line" smooth="yes"/>
-      <point x="424" y="55"/>
-      <point x="493" y="153"/>
-      <point x="493" y="266" type="curve" smooth="yes"/>
-      <point x="493" y="384"/>
-      <point x="408" y="476"/>
-      <point x="304" y="476" type="curve" smooth="yes"/>
-      <point x="119" y="476" type="line"/>
-      <point x="168" y="520" type="line"/>
-      <point x="168" y="11" type="line"/>
-      <point x="119" y="55" type="line"/>
+      <point x="168" y="507" type="line"/>
+      <point x="119" y="466" type="line"/>
+      <point x="304" y="466" type="line" smooth="yes"/>
+      <point x="408" y="466"/>
+      <point x="493" y="379"/>
+      <point x="493" y="268" type="curve" smooth="yes"/>
+      <point x="493" y="162"/>
+      <point x="424" y="69"/>
+      <point x="304" y="69" type="curve" smooth="yes"/>
+      <point x="119" y="69" type="line"/>
+      <point x="168" y="29" type="line"/>
+    </contour>
+    <contour>
+      <point x="289" y="550" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-04-09 04:39:09 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>mask</key>

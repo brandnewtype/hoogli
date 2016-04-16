@@ -1,7 +1,7 @@
 feature sups {
-sub one by uni00B9;
-sub two by uni00B2;
-sub three by uni00B3;
+sub one by onesuperior;
+sub two by twosuperior;
+sub three by threesuperior;
 } sups;
 
 feature frac {

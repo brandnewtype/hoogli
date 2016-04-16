@@ -3,105 +3,13 @@
   <advance width="619"/>
   <unicode hex="011E"/>
   <outline>
-    <contour>
-      <point x="483" y="477" type="curve" smooth="yes"/>
-      <point x="441" y="494"/>
-      <point x="393" y="504"/>
-      <point x="337" y="504" type="curve" smooth="yes"/>
-      <point x="197" y="504"/>
-      <point x="95" y="405"/>
-      <point x="95" y="257" type="curve" smooth="yes"/>
-      <point x="95" y="123"/>
-      <point x="183" y="16"/>
-      <point x="334" y="16" type="curve" smooth="yes"/>
-      <point x="409" y="16"/>
-      <point x="465" y="36"/>
-      <point x="511" y="65" type="curve" smooth="yes"/>
-      <point x="520" y="71"/>
-      <point x="533" y="68"/>
-      <point x="539" y="59" type="curve" smooth="yes"/>
-      <point x="545" y="50"/>
-      <point x="542" y="37"/>
-      <point x="533" y="31" type="curve" smooth="yes"/>
-      <point x="481" y="-2"/>
-      <point x="419" y="-24"/>
-      <point x="334" y="-24" type="curve" smooth="yes"/>
-      <point x="157" y="-24"/>
-      <point x="55" y="101"/>
-      <point x="55" y="257" type="curve" smooth="yes"/>
-      <point x="55" y="429"/>
-      <point x="175" y="544"/>
-      <point x="337" y="544" type="curve" smooth="yes"/>
-      <point x="399" y="544"/>
-      <point x="451" y="532"/>
-      <point x="497" y="515" type="curve" smooth="yes"/>
-      <point x="507" y="511"/>
-      <point x="513" y="499"/>
-      <point x="509" y="489" type="curve" smooth="yes"/>
-      <point x="505" y="479"/>
-      <point x="493" y="473"/>
-    </contour>
-    <contour>
-      <point x="503" y="58" type="curve" smooth="yes"/>
-      <point x="503" y="241" type="line" smooth="yes"/>
-      <point x="503" y="252"/>
-      <point x="512" y="261"/>
-      <point x="523" y="261" type="curve" smooth="yes"/>
-      <point x="534" y="261"/>
-      <point x="543" y="252"/>
-      <point x="543" y="241" type="curve" smooth="yes"/>
-      <point x="543" y="58" type="line" smooth="yes"/>
-      <point x="543" y="47"/>
-      <point x="534" y="38"/>
-      <point x="523" y="38" type="curve" smooth="yes"/>
-      <point x="512" y="38"/>
-      <point x="503" y="47"/>
-    </contour>
-    <contour>
-      <point x="511" y="221" type="curve" smooth="yes"/>
-      <point x="350" y="221" type="line" smooth="yes"/>
-      <point x="339" y="221"/>
-      <point x="330" y="230"/>
-      <point x="330" y="241" type="curve" smooth="yes"/>
-      <point x="330" y="252"/>
-      <point x="339" y="261"/>
-      <point x="350" y="261" type="curve" smooth="yes"/>
-      <point x="511" y="261" type="line" smooth="yes"/>
-      <point x="522" y="261"/>
-      <point x="531" y="252"/>
-      <point x="531" y="241" type="curve" smooth="yes"/>
-      <point x="531" y="230"/>
-      <point x="522" y="221"/>
-    </contour>
-    <contour>
-      <point x="213" y="758" type="curve" smooth="yes"/>
-      <point x="240" y="724"/>
-      <point x="279" y="700"/>
-      <point x="322" y="700" type="curve" smooth="yes"/>
-      <point x="370" y="700"/>
-      <point x="404" y="723"/>
-      <point x="427" y="757" type="curve" smooth="yes"/>
-      <point x="433" y="766"/>
-      <point x="446" y="769"/>
-      <point x="455" y="763" type="curve" smooth="yes"/>
-      <point x="464" y="757"/>
-      <point x="467" y="744"/>
-      <point x="461" y="735" type="curve" smooth="yes"/>
-      <point x="430" y="689"/>
-      <point x="386" y="660"/>
-      <point x="322" y="660" type="curve" smooth="yes"/>
-      <point x="267" y="660"/>
-      <point x="216" y="690"/>
-      <point x="181" y="734" type="curve" smooth="yes"/>
-      <point x="175" y="742"/>
-      <point x="176" y="755"/>
-      <point x="185" y="762" type="curve" smooth="yes"/>
-      <point x="193" y="768"/>
-      <point x="206" y="767"/>
-    </contour>
+    <component base="G"/>
+    <component base="brevecomb.case" xOffset="327" yOffset="9"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-04-09 02:00:25 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>mask</key>

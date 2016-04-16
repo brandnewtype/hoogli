@@ -3,22 +3,24 @@
   <advance width="216"/>
   <outline>
     <contour>
-      <point x="109" y="292" type="curve" smooth="yes"/>
-      <point x="144" y="292"/>
-      <point x="180" y="266"/>
-      <point x="180" y="218" type="curve" smooth="yes"/>
-      <point x="180" y="158"/>
-      <point x="145" y="144"/>
-      <point x="110" y="144" type="curve" smooth="yes"/>
-      <point x="78" y="144"/>
-      <point x="39" y="160"/>
-      <point x="39" y="218" type="curve"/>
-      <point x="39" y="268"/>
-      <point x="70" y="292"/>
+      <point x="145" y="154"/>
+      <point x="180" y="166"/>
+      <point x="180" y="223" type="curve" smooth="yes"/>
+      <point x="180" y="268"/>
+      <point x="144" y="293"/>
+      <point x="109" y="293" type="curve" smooth="yes"/>
+      <point x="70" y="293"/>
+      <point x="39" y="270"/>
+      <point x="39" y="223" type="curve"/>
+      <point x="39" y="168"/>
+      <point x="78" y="154"/>
+      <point x="110" y="154" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-04-09 04:39:09 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>mask</key>

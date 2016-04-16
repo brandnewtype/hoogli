@@ -1197,15 +1197,6 @@
 		<key>w</key>
 		<integer>-5</integer>
 	</dict>
-	<key>Euro</key>
-	<dict>
-		<key>four</key>
-		<integer>10</integer>
-		<key>one</key>
-		<integer>40</integer>
-		<key>seven</key>
-		<integer>40</integer>
-	</dict>
 	<key>F</key>
 	<dict>
 		<key>@MMK_R_A</key>
@@ -1605,6 +1596,15 @@
 		<key>@MMK_R_t</key>
 		<integer>5</integer>
 	</dict>
+	<key>euro</key>
+	<dict>
+		<key>four</key>
+		<integer>10</integer>
+		<key>one</key>
+		<integer>40</integer>
+		<key>seven</key>
+		<integer>40</integer>
+	</dict>
 	<key>f</key>
 	<dict>
 		<key>@MMK_R_O</key>
@@ -1675,9 +1675,9 @@
 		<integer>5</integer>
 		<key>@MMK_R_hyphen</key>
 		<integer>15</integer>
-		<key>Euro</key>
-		<integer>20</integer>
 		<key>cent</key>
+		<integer>20</integer>
+		<key>euro</key>
 		<integer>20</integer>
 		<key>four</key>
 		<integer>25</integer>
@@ -1854,8 +1854,6 @@
 		<integer>40</integer>
 		<key>@MMK_R_period</key>
 		<integer>-50</integer>
-		<key>Euro</key>
-		<integer>-20</integer>
 		<key>J</key>
 		<integer>-30</integer>
 		<key>V</key>
@@ -1863,6 +1861,8 @@
 		<key>W</key>
 		<integer>30</integer>
 		<key>cent</key>
+		<integer>-20</integer>
+		<key>euro</key>
 		<integer>-20</integer>
 		<key>four</key>
 		<integer>-40</integer>
