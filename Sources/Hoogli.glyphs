@@ -1,6 +1,11 @@
 {
 DisplayStrings = (
+<<<<<<< Updated upstream
 /bSignVocalicRr
+=======
+/bBa/bSignVocalicR,
+/bBa/bSignVocalicR/bCandrabindu
+>>>>>>> Stashed changes
 );
 copyright = "Copyright 2015 The Hoogli Authors";
 customParameters = (
