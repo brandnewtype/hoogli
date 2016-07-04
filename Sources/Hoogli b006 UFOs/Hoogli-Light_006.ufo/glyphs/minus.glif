@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="minus" format="1">
+  <advance width="527"/>
+  <unicode hex="2212"/>
+  <outline>
+    <contour>
+      <point x="440" y="229" type="line" smooth="yes"/>
+      <point x="451" y="229"/>
+      <point x="460" y="238"/>
+      <point x="460" y="249" type="curve" smooth="yes"/>
+      <point x="460" y="260"/>
+      <point x="451" y="269"/>
+      <point x="440" y="269" type="curve" smooth="yes"/>
+      <point x="86" y="269" type="line" smooth="yes"/>
+      <point x="75" y="269"/>
+      <point x="66" y="260"/>
+      <point x="66" y="249" type="curve" smooth="yes"/>
+      <point x="66" y="238"/>
+      <point x="75" y="229"/>
+      <point x="86" y="229" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>angle</key>
+      <real>0</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>570</real>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>
