@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bRa" format="1">
+  <advance width="485"/>
+  <unicode hex="09B0"/>
+  <outline>
+    <component base="bBa"/>
+    <component base="bNukta" xOffset="169" yOffset="164"/>
+  </outline>
+</glyph>

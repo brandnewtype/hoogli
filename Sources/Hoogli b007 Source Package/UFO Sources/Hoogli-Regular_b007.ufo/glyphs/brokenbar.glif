@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brokenbar" format="1">
+  <advance width="286"/>
+  <unicode hex="00A6"/>
+  <outline>
+    <contour>
+      <point x="144" y="289" type="curve" smooth="yes"/>
+      <point x="157" y="289"/>
+      <point x="168" y="299"/>
+      <point x="168" y="312" type="curve" smooth="yes"/>
+      <point x="168" y="548" type="line" smooth="yes"/>
+      <point x="168" y="561"/>
+      <point x="157" y="571"/>
+      <point x="144" y="571" type="curve" smooth="yes"/>
+      <point x="131" y="571"/>
+      <point x="120" y="561"/>
+      <point x="120" y="548" type="curve" smooth="yes"/>
+      <point x="120" y="312" type="line" smooth="yes"/>
+      <point x="120" y="299"/>
+      <point x="131" y="289"/>
+    </contour>
+    <contour>
+      <point x="144" y="-113" type="curve" smooth="yes"/>
+      <point x="157" y="-113"/>
+      <point x="168" y="-102"/>
+      <point x="168" y="-90" type="curve" smooth="yes"/>
+      <point x="168" y="146" type="line" smooth="yes"/>
+      <point x="168" y="159"/>
+      <point x="157" y="169"/>
+      <point x="144" y="169" type="curve" smooth="yes"/>
+      <point x="131" y="169"/>
+      <point x="120" y="159"/>
+      <point x="120" y="146" type="curve" smooth="yes"/>
+      <point x="120" y="-90" type="line" smooth="yes"/>
+      <point x="120" y="-102"/>
+      <point x="131" y="-113"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>angle</key>
+      <real>0</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>232</real>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

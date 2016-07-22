@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bSignAu" format="1">
+  <advance width="1155"/>
+  <unicode hex="09CC"/>
+  <outline>
+    <component base="bSignE"/>
+    <component base="BASE" xOffset="288"/>
+    <component base="bAuMark" xOffset="935"/>
+  </outline>
+</glyph>

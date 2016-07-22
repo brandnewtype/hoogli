@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caroncomb.case" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-8" y="594" type="curve" smooth="yes"/>
+      <point x="27" y="619"/>
+      <point x="63" y="645"/>
+      <point x="93" y="666" type="curve" smooth="yes"/>
+      <point x="104" y="673"/>
+      <point x="106" y="689"/>
+      <point x="98" y="699" type="curve" smooth="yes"/>
+      <point x="91" y="709"/>
+      <point x="76" y="711"/>
+      <point x="65" y="703" type="curve" smooth="yes"/>
+      <point x="36" y="681"/>
+      <point x="-1" y="656"/>
+      <point x="-36" y="631" type="curve" smooth="yes"/>
+      <point x="-45" y="624"/>
+      <point x="-48" y="609"/>
+      <point x="-40" y="599" type="curve" smooth="yes"/>
+      <point x="-33" y="589"/>
+      <point x="-18" y="586"/>
+    </contour>
+    <contour>
+      <point x="-42" y="594" type="curve" smooth="yes"/>
+      <point x="-32" y="586"/>
+      <point x="-17" y="589"/>
+      <point x="-10" y="600" type="curve" smooth="yes"/>
+      <point x="-2" y="609"/>
+      <point x="-5" y="624"/>
+      <point x="-16" y="631" type="curve" smooth="yes"/>
+      <point x="-51" y="656"/>
+      <point x="-87" y="681"/>
+      <point x="-116" y="703" type="curve" smooth="yes"/>
+      <point x="-126" y="711"/>
+      <point x="-140" y="709"/>
+      <point x="-148" y="699" type="curve" smooth="yes"/>
+      <point x="-155" y="689"/>
+      <point x="-154" y="675"/>
+      <point x="-144" y="667" type="curve" smooth="yes"/>
+      <point x="-115" y="645"/>
+      <point x="-78" y="619"/>
+    </contour>
+    <contour>
+      <point x="-21" y="500" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

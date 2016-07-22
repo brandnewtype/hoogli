@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bRha" format="1">
+  <advance width="488"/>
+  <unicode hex="09DD"/>
+  <outline>
+    <component base="bDdha"/>
+    <component base="bNukta" xOffset="226" yOffset="-30"/>
+  </outline>
+</glyph>

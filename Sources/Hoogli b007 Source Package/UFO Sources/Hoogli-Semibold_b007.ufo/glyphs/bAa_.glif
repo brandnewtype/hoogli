@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bAa" format="1">
+  <advance width="944"/>
+  <unicode hex="0986"/>
+  <outline>
+    <component base="bA"/>
+    <component base="bSignAa" xOffset="723"/>
+  </outline>
+</glyph>

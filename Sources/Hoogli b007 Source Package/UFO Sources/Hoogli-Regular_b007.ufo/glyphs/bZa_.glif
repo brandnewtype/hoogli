@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bZa" format="1">
+  <advance width="645"/>
+  <outline>
+    <component base="bJa"/>
+    <component base="bNukta" xOffset="326" yOffset="23"/>
+  </outline>
+</glyph>
